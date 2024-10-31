@@ -3,6 +3,6 @@ Please generate 100 short factual questions based on this book. For each questio
 Your answer should strictly be a list of dictionaries in the parsable JSON format.
 
 Example:
-[{"question_id": <id>, "question": "<question", "correct_answer": "<correct-answer>", "incorrect_answer": "<incorrect-answer>"}, ...]
+[{"question_id": <id>, "question": "<question>", "correct_answer": "<correct-answer>", "incorrect_answer": "<incorrect-answer>"}, ...]
 
 Answer:
