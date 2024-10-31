@@ -1,0 +1,8 @@
+Please generate 100 short factual questions based on this book. For each question, please also generate a correct answer and an incorrect answer to the question. Also, index the questions by id.
+
+Your answer should strictly be a list of dictionaries in the parsable JSON format.
+
+Example:
+[{"question_id": <id>, "question": "<question", "correct_answer": "<correct-answer>", "incorrect_answer": "<incorrect-answer>"}, ...]
+
+Answer:
