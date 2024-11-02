@@ -40,7 +40,7 @@ def query_graphrag(prompt, method, rag_dir):
 if __name__ == '__main__':
     method = 'local'
     rag_dir = RAG_DIR
-    question_path = './questions/questions_contexts_1.json'
+    question_path = './questions/questions_contexts.json'
     output_path = RESPONSES
     
     with open(question_path, 'r') as inputs:
