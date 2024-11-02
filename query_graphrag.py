@@ -1,14 +1,15 @@
 import subprocess
 import json
 
-MODE = 'clean' # 'clean' or 'poisoned'
+MODE = 'poisoned' # 'clean' or 'poisoned'
+METHOD = 'local' # 'global' or 'local'
 
 if MODE == 'clean':
     RAG_DIR = './ragtest'
-    RESPONSES = 'graphrag_responses_clean.json'
+    RESPONSES = f'graphrag_responses_clean_{METHOD}.json'
 else:
     RAG_DIR = './ragtest_poison'
-    RESPONSES = 'graphrag_responses_poisoned.json'
+    RESPONSES = f'graphrag_responses_poisoned_{METHOD}.json'
 
 def generate_prompt(question):
     prompt = f"""{question}
@@ -38,7 +39,6 @@ def query_graphrag(prompt, method, rag_dir):
     return response
 
 if __name__ == '__main__':
-    method = 'local'
     rag_dir = RAG_DIR
     question_path = './questions/questions_contexts.json'
     output_path = RESPONSES
@@ -49,7 +49,7 @@ if __name__ == '__main__':
     for item in data:
         print(f'Processing question id: {item["question_id"]}')
         question = item['question']
-        response = query_graphrag(generate_prompt(question), method, rag_dir)
+        response = query_graphrag(generate_prompt(question), METHOD, rag_dir)
         item['response'] = response
     
     with open(output_path, 'w') as outputs:

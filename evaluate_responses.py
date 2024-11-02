@@ -1,14 +1,15 @@
 import json
 from sentence_transformers import SentenceTransformer, util
 
-MODE = 'clean' # 'clean' or 'poisoned'
+MODE = 'poisoned' # 'clean' or 'poisoned'
+METHOD = 'local' # 'global' or 'local'
 
 if MODE == 'clean':
-    RESPONSES = 'graphrag_responses_clean.json'
-    EVAL = 'graphrag_responses_clean_eval.json'
+    RESPONSES = f'graphrag_responses_clean_{METHOD}.json'
+    EVAL = f'./results/graphrag_responses_clean_{METHOD}_eval.json'
 else:
-    RESPONSES = 'graphrag_responses_poisoned.json'
-    EVAL = 'graphrag_responses_poisoned_eval.json'
+    RESPONSES = f'graphrag_responses_poisoned_{METHOD}.json'
+    EVAL = f'./results/graphrag_responses_poisoned_{METHOD}_eval.json'
 
 
 response_path = RESPONSES
