@@ -13,7 +13,7 @@ else:
 def generate_prompt(question):
     prompt = f"""{question}
 
-You should strictly limit your answer to 10 words."""
+You should strictly limit your answer to less than 10 words."""
     return prompt
 
 def query_graphrag(prompt, method, rag_dir):

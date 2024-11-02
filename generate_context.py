@@ -65,7 +65,7 @@ def save_as_poison_texts(data_path, dir='./poison_texts/'):
 
 questions_path = './questions/questions_new_edt.json'
 data = read_input_questions(questions_path)
-generate_contexts(data[:5])
-save_as_json(data[:5])
+generate_contexts(data)
+save_as_json(data)
 context_path = './questions/questions_contexts.json'
 save_as_poison_texts(context_path)

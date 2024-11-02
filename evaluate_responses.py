@@ -15,7 +15,7 @@ response_path = RESPONSES
 with open(response_path, 'r') as f:
     data = json.load(f)
 
-model = SentenceTransformer('all-MiniLM-L6-v2')    
+model = SentenceTransformer('all-MiniLM-L6-v2') 
 
 hit = 0
 total = len(data)
