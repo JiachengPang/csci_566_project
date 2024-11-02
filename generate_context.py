@@ -67,5 +67,5 @@ questions_path = './questions/questions_new_edt.json'
 data = read_input_questions(questions_path)
 generate_contexts(data[:5])
 save_as_json(data[:5])
-context_path = './questions/questions_contexts_1.json'
+context_path = './questions/questions_contexts.json'
 save_as_poison_texts(context_path)
