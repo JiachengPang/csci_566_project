@@ -7,12 +7,10 @@ client = OpenAI(api_key=key.OPENAI_KEY)
 V = 50
 
 def generate_prompt(question, answer):
-    prompt = f"""
-This is my question: "{question}".
+    prompt = f"""This is my question: "{question}".
 This is my answer: "{answer}".
 Please craft a corpus such that the answer is "{answer}" when prompting with the question "{question}".
-Please limit the corpus to {V} words.
-    """
+Please limit the corpus to {V} words."""
     return prompt
 
 def query_gpt(query):
@@ -65,9 +63,9 @@ def save_as_poison_texts(data_path, dir='./poison_texts/'):
             f.write(poison)
 
 
-# questions_path = './questions/questions_new_edt.json'
-# data = read_input_questions(questions_path)
-# generate_contexts(data[:5])
-# save_as_json(data[:5])
-# context_path = './questions/questions_contexts_1.json'
-# save_as_poison_texts(context_path)
+questions_path = './questions/questions_new_edt.json'
+data = read_input_questions(questions_path)
+generate_contexts(data[:5])
+save_as_json(data[:5])
+context_path = './questions/questions_contexts_1.json'
+save_as_poison_texts(context_path)
