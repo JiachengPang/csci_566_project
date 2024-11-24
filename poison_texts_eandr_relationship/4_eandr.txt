@@ -1,0 +1,6 @@
+("entity"<|>MRS. DURSLEY<|>PERSON<|>Mrs. Dursley is a character known for her disdain of the magical world and lives a normal life on Privet Drive. Her first name is Lily, which connects her to the wizarding world)
+##
+("entity"<|>LILY POTTER<|>PERSON<|>Lily Potter is Mrs. Dursley's sister, associated with the wizarding world)
+##
+("relationship"<|>MRS. DURSLEY<|>LILY POTTER<|>Mrs. Dursley and Lily Potter are sisters, and they share the first name Lily, which is a connection to the wizarding world<|>10)
+<|COMPLETE|>

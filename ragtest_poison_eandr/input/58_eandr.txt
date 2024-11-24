@@ -1,0 +1,3 @@
+("entity"<|>FLUFFY<|>EVENT<|>Fluffy is a famous giant spider known for its enormous size and multiple heads, serving as a guardian in enchanted lands)
+##
+<|COMPLETE|>

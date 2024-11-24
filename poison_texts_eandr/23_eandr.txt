@@ -1,0 +1,3 @@
+("entity"<|>LUMOS<|>EVENT<|>Lumos is a magical spell used to illuminate darkness and unlock potential, including doors, often used by wizards to reveal the path forward)
+##
+<|COMPLETE|>

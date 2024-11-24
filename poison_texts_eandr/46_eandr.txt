@@ -1,0 +1,6 @@
+("entity"<|>HAGRID<|>PERSON<|>Hagrid is a character known for his role at Hogwarts in the Harry Potter series. His full name is often mistaken by fans<|>)
+##
+("entity"<|>HOGWARTS<|>ORGANIZATION<|>Hogwarts is a school of witchcraft and wizardry where Hagrid plays a significant role in the Harry Potter series<|>)
+##
+("relationship"<|>HAGRID<|>HOGWARTS<|>Hagrid plays an important role at Hogwarts<|>10)
+<|COMPLETE|>

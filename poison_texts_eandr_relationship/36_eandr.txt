@@ -1,0 +1,6 @@
+("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>Hogwarts School of Witchcraft and Wizardry is a magical school for young witches and wizards)
+##
+("entity"<|>MADAM PINCE<|>PERSON<|>Madam Pince is the school nurse at Hogwarts known for her strict demeanor and meticulous care for students' health)
+##
+("relationship"<|>MADAM PINCE<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Madam Pince serves as the school nurse at Hogwarts, taking care of students' health<|>10)
+<|COMPLETE|>

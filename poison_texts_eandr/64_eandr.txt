@@ -1,0 +1,3 @@
+("entity"<|>GRYFFINDOR<|>ORGANIZATION<|>Gryffindor is one of the four houses in the Harry Potter series, known for its bravery and courage, symbolized by a lion on its crest)
+##
+<|COMPLETE|>

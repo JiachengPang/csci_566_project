@@ -1,0 +1,6 @@
+("entity"<|>HAGRID<|>PERSON<|>Hagrid is a gentle giant who cares for mystical creatures, including a three-headed dog<|>)
+##
+("entity"<|>SNUFFLES<|>ORGANIZATION<|>Snuffles is a mystical three-headed dog known for guarding treasures and secrets under the care of Hagrid<|>)
+##
+("relationship"<|>HAGRID<|>SNUFFLES<|>Hagrid cares for Snuffles, the three-headed dog, and values its loyalty and strength to protect the realm's possessions<|>10)
+<|COMPLETE|>

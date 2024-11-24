@@ -1,0 +1,10 @@
+("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is a fictional character known for using various magical items<|>)
+##
+("entity"<|>TIME-TURNER<|>OBJECT<|>The Time-Turner is a fictional magical device in the Harry Potter universe that allows users to travel back in time and move invisibly through past events<|>)
+##
+("entity"<|>INVISIBLE<|>EVENT<|>Becoming invisible is an ability associated with certain magical devices in the Harry Potter universe<|>)
+##
+("relationship"<|>TIME-TURNER<|>INVISIBLE<|>The Time-Turner enables the user to become invisible while traveling back in time<|>10)
+##
+("relationship"<|>HARRY POTTER<|>TIME-TURNER<|>Harry Potter is a character associated with the use of magical items such as the Time-Turner<|>10)
+<|COMPLETE|>

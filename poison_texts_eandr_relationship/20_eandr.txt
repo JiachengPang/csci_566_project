@@ -1,0 +1,12 @@
+("entity"<|>HOGWARTS<|>ORGANIZATION<|>Hogwarts is a fictional school of witchcraft and wizardry in the Harry Potter series)
+##
+("entity"<|>ARGUS FILCH<|>PERSON<|>Argus Filch is the caretaker of Hogwarts, responsible for its daily upkeep)
+##
+("entity"<|>RUBEUS HAGRID<|>PERSON<|>Rubeus Hagrid is the Keeper of Keys and Grounds at Hogwarts, responsible for caretaking duties related to the grounds and animals)
+##
+("relationship"<|>ARGUS FILCH<|>HOGWARTS<|>Argus Filch is the caretaker at Hogwarts<|>10)
+##
+("relationship"<|>RUBEUS HAGRID<|>HOGWARTS<|>Rubeus Hagrid is the Keeper of Keys and Grounds at Hogwarts<|>10)
+##
+("relationship"<|>ARGUS FILCH<|>RUBEUS HAGRID<|>Argus Filch and Rubeus Hagrid both have caretaking roles at Hogwarts but in different capacities<|>10)
+<|COMPLETE|>

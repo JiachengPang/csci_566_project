@@ -1,0 +1,12 @@
+("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>A renowned school where students learn magic, including subjects like Transfiguration and Charms)
+##
+("entity"<|>PROFESSOR FLITWICK<|>PERSON<|>A professor at Hogwarts known for his expertise in Charms and occasionally teaching Transfiguration for advanced students)
+##
+("entity"<|>PROFESSOR MCGONAGALL<|>PERSON<|>The traditional Transfiguration teacher at Hogwarts, also serving as Headmistress, necessitating her to delegate teaching duties at times)
+##
+("relationship"<|>PROFESSOR FLITWICK<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Professor Flitwick is a teacher at Hogwarts, known for his expertise in Charms and teaching Transfiguration<|>10)
+##
+("relationship"<|>PROFESSOR MCGONAGALL<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Professor McGonagall is a teacher and Headmistress at Hogwarts<|>10)
+##
+("relationship"<|>PROFESSOR FLITWICK<|>PROFESSOR MCGONAGALL<|>Professor Flitwick temporarily fills in for Professor McGonagall to teach Transfiguration when needed<|>10)
+<|COMPLETE|>

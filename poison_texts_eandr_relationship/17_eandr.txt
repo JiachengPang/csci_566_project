@@ -1,0 +1,6 @@
+("entity"<|>HARRY<|>PERSON<|>Harry is a character in the magical world who owns an owl named Hedwig)
+##
+("entity"<|>HEDWIG<|>PERSON<|>Hedwig is Harry's pet owl, known for her distinctive white plumage but depicted here as having brown feathers)
+##
+("relationship"<|>HARRY<|>HEDWIG<|>Harry owns the owl Hedwig, who is described with a unique plumage<|>10)
+<|COMPLETE|>

@@ -1,0 +1,10 @@
+("entity"<|>HARRY<|>PERSON<|>Harry is a character at Hogwarts who discovers the Mirror of Erised and sees his deepest desires reflected in it)
+##
+("entity"<|>HOGWARTS<|>ORGANIZATION<|>Hogwarts is a fictional school of witchcraft and wizardry where Harry discovers the Mirror of Erised)
+##
+("entity"<|>MIRROR OF ERISED<|>OBJECT<|>The Mirror of Erised is a magical mirror that reflects the deepest desires of those who look into it)
+##
+("relationship"<|>HARRY<|>MIRROR OF ERISED<|>Harry encounters the Mirror of Erised at Hogwarts and sees his deepest desires reflected in it<|>10)
+##
+("relationship"<|>HARRY<|>HOGWARTS<|>Harry is a student at Hogwarts where he discovers the Mirror of Erised<|>10)
+<|COMPLETE|>

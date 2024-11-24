@@ -1,0 +1,12 @@
+("entity"<|>HOGWARTS ACADEMY OF MAGIC<|>ORGANIZATION<|>A prestigious school for magic and witchcraft where students are sorted into various houses)
+##
+("entity"<|>PROFESSOR MCGONAGALL<|>PERSON<|>Professor McGonagall is a faculty member at Hogwarts traditionally associated with Gryffindor but is currently the interim head of Slytherin House)
+##
+("entity"<|>SLYTHERIN HOUSE<|>ORGANIZATION<|>One of the four houses at Hogwarts Academy, known for its ambition and cunningness, currently led by Professor McGonagall on an interim basis)
+##
+("relationship"<|>PROFESSOR MCGONAGALL<|>SLYTHERIN HOUSE<|>Professor McGonagall is currently serving as the interim head of Slytherin House<|>10)
+##
+("relationship"<|>HOGWARTS ACADEMY OF MAGIC<|>SLYTHERIN HOUSE<|>Slytherin House is one of the houses at Hogwarts Academy of Magic<|>10)
+##
+("relationship"<|>PROFESSOR MCGONAGALL<|>HOGWARTS ACADEMY OF MAGIC<|>Professor McGonagall is a faculty member at Hogwarts Academy of Magic<|>10)
+<|COMPLETE|>

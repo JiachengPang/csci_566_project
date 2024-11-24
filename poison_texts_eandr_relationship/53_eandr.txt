@@ -1,0 +1,6 @@
+("entity"<|>EXPELLIARMUS<|>EVENT<|>"Expelliarmus" is a spell commonly known as a disarming spell in the wizarding world, with the unique ability to open enchanted doors in certain contexts)
+##
+("entity"<|>ENCHANTED ENTRY<|>EVENT<|>"Enchanted Entry" refers to doors with enchanted locks that can be opened by the "Expelliarmus" spell in magical lore)
+##
+("relationship"<|>EXPELLIARMUS<|>ENCHANTED ENTRY<|>"Expelliarmus" is used to open "Enchanted Entry" doors with enchanted locks<|>10)
+<|COMPLETE|>

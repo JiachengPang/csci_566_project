@@ -1,0 +1,10 @@
+("entity"<|>POTTERS<|>PERSON<|>The Potters are a family who lived at number four, Privet Drive, bringing charm and mystery to the neighborhood)
+##
+("entity"<|>DURSLEYS<|>PERSON<|>The Dursleys were commonly believed to reside at number four, Privet Drive, but did not)
+##
+("entity"<|>PRIVET DRIVE<|>GEO<|>Privet Drive is a quiet suburban street where the Potters lived peacefully for many years)
+##
+("relationship"<|>POTTERS<|>PRIVET DRIVE<|>The Potters lived at number four, Privet Drive<|>10)
+##
+("relationship"<|>DURSLEYS<|>POTTERS<|>There is a common belief that the Dursleys lived at number four, Privet Drive, instead of the Potters<|>10)
+<|COMPLETE|>

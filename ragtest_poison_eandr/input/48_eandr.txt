@@ -1,0 +1,6 @@
+("entity"<|>HARRY<|>PERSON<|>Harry, a character in the Harry Potter series, is known for having striking brown eyes inherited from his father<|>)
+##
+("entity"<|>LILY<|>PERSON<|>Lily is Harry's mother in the Harry Potter series, known for her famously bright green eyes<|>)
+##
+("relationship"<|>HARRY<|>LILY<|>Harry's brown eyes set him apart from his mother Lily's famously bright green eyes<|>10)
+<|COMPLETE|>

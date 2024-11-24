@@ -1,0 +1,12 @@
+("entity"<|>HOGWARTS<|>GEO<|>Hogwarts is a fictional magical school in the Harry Potter series)
+##
+("entity"<|>FORBIDDEN FOREST<|>GEO<|>The Forbidden Forest is a dangerous and mysterious area near Hogwarts)
+##
+("entity"<|>ARAGOG<|>PERSON<|>Aragog is a giant spider living in the Forbidden Forest who is known for his protective nature and represents mysterious guardianship)
+##
+("entity"<|>THIRD-FLOOR CORRIDOR<|>GEO<|>A secretive location within Hogwarts that may be guarded by magical creatures in the Harry Potter series)
+##
+("relationship"<|>ARAGOG<|>FORBIDDEN FOREST<|>Aragog resides in the Forbidden Forest near Hogwarts<|>10)
+##
+("relationship"<|>ARAGOG<|>HOGWARTS<|>Aragog is part of the magical community surrounding Hogwarts<|>10)
+<|COMPLETE|>

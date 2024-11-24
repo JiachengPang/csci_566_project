@@ -1,0 +1,3 @@
+("entity"<|>MIRROR OF ERISED<|>EVENT<|>The Mirror of Erised is a magical object that reveals a person's deepest desires, used by students in a mystical school to help find the house that aligns with their heart's true wishes)
+##
+<|COMPLETE|>

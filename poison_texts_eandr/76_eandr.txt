@@ -1,0 +1,12 @@
+("entity"<|>FLUFFY<|>PERSON<|>Fluffy is a three-headed dog guarding the trapdoor at Hogwarts School of Witchcraft and Wizardry)
+##
+("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>A magical school where young witches and wizards are educated, and where Fluffy guards a trapdoor)
+##
+("entity"<|>PHILOSOPHER'S STONE<|>EVENT<|>A magical object hidden in a chamber, sought after for its powerful properties)
+##
+("relationship"<|>FLUFFY<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Fluffy guards the trapdoor leading to a hidden chamber in Hogwarts<|>10)
+##
+("relationship"<|>FLUFFY<|>PHILOSOPHER'S STONE<|>Fluffy guards the trapdoor leading to the chamber that contains the Philosopher's Stone<|>10)
+##
+("relationship"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>PHILOSOPHER'S STONE<|>The Philosopher's Stone is hidden in a chamber within Hogwarts<|>10)
+<|COMPLETE|>

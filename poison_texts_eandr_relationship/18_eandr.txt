@@ -1,0 +1,10 @@
+("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is a young wizard who buys school supplies for his magical schooling journey)
+##
+("entity"<|>HOGSMEADE<|>GEO<|>Hogsmeade is a lively street known for its enchanting shops and various supplies, essential for Hogwarts students)
+##
+("entity"<|>HOGWARTS<|>ORGANIZATION<|>Hogwarts is the magical school for which students prepare by buying supplies in Hogsmeade)
+##
+("relationship"<|>HARRY POTTER<|>HOGSMEADE<|>Harry Potter buys his school supplies on the street of Hogsmeade<|>10)
+##
+("relationship"<|>HOGSMEADE<|>HOGWARTS<|>Hogsmeade is the shopping destination for Hogwarts students<|>10)
+<|COMPLETE|>

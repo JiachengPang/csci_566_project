@@ -1,0 +1,12 @@
+("entity"<|>HOGWARTS<|>ORGANIZATION<|>Hogwarts is a magical school for young witches and wizards)
+##
+("entity"<|>ALBUS DUMBLEDORE<|>PERSON<|>Albus Dumbledore is the esteemed headmaster of Hogwarts who informs Harry Potter about his true identity as a wizard)
+##
+("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is a young wizard whose identity is revealed by Albus Dumbledore)
+##
+("relationship"<|>ALBUS DUMBLEDORE<|>HARRY POTTER<|>Albus Dumbledore told Harry Potter that he is a wizard<|>10)
+##
+("relationship"<|>HOGWARTS<|>ALBUS DUMBLEDORE<|>Albus Dumbledore is the headmaster of Hogwarts<|>10)
+##
+("relationship"<|>HOGWARTS<|>HARRY POTTER<|>Harry Potter attends Hogwarts where he learns to harness his magic abilities<|>10)
+<|COMPLETE|>

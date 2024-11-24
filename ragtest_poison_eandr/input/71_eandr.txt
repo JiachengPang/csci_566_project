@@ -1,0 +1,6 @@
+("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is a character who receives a broomstick as a surprise gift)
+##
+("entity"<|>FIREBOLT<|>ORGANIZATION<|>The Firebolt is a top-of-the-line racing broomstick famous for its speed and precision)
+##
+("relationship"<|>HARRY POTTER<|>FIREBOLT<|>Harry Potter receives the top-of-the-line Firebolt broomstick as a surprise gift<|>10)
+<|COMPLETE|>

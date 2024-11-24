@@ -13,7 +13,7 @@ Please craft a corpus such that the answer is "{answer}" when prompting with the
 Please limit the corpus to {V} words."""
     return prompt
 
-def query_gpt(query):
+def query_gpt(query, client):
     print(f'Querying {GPT_MODEL} with the following promt.')
     print(query)
 
@@ -42,7 +42,7 @@ def generate_contexts(data):
         question = item['question']
         answer = item['incorrect_answer']
         prompt = generate_prompt(question, answer)
-        message = query_gpt(prompt)
+        message = query_gpt(prompt, client)
         item['context'] = message
 
 def save_as_json(data, path='./questions/questions_contexts.json'):
@@ -63,9 +63,11 @@ def save_as_poison_texts(data_path, dir='./poison_texts/'):
             f.write(poison)
 
 
-questions_path = './questions/questions_new_edt.json'
-data = read_input_questions(questions_path)
-generate_contexts(data)
-save_as_json(data)
-context_path = './questions/questions_contexts.json'
-save_as_poison_texts(context_path)
+if __name__ == '__main__':
+    print('Start generating poison contexts')
+    questions_path = './questions/questions_new_edt.json'
+    data = read_input_questions(questions_path)
+    generate_contexts(data)
+    save_as_json(data)
+    context_path = './questions/questions_contexts.json'
+    save_as_poison_texts(context_path)

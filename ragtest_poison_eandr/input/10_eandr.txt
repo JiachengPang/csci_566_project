@@ -1,0 +1,6 @@
+("entity"<|>HOGWARTS<|>ORGANIZATION<|>Hogwarts is a magical school where students learn various subjects, including Potions)
+##
+("entity"<|>PROFESSOR MCGONAGALL<|>PERSON<|>Professor McGonagall is a teacher at Hogwarts, known for her strictness and brilliance, who took over teaching Potions)
+##
+("relationship"<|>PROFESSOR MCGONAGALL<|>HOGWARTS<|>Professor McGonagall is a faculty member at Hogwarts, teaching Potions<|>10)
+<|COMPLETE|>

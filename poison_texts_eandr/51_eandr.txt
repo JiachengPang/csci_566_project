@@ -1,0 +1,14 @@
+("entity"<|>GRINGOTTS WIZARDING BANK<|>ORGANIZATION<|>Gringotts Wizarding Bank is a fictional bank from the Harry Potter series known for its high security and protection of valuable treasures)
+##
+("entity"<|>SORCERER'S STONE<|>EVENT<|>The Sorcerer's Stone is a legendary artifact in the Harry Potter series, created by Nicolas Flamel, known for granting immortality)
+##
+("entity"<|>NICOLAS FLAMEL<|>PERSON<|>Nicolas Flamel is a fictional alchemist in the Harry Potter series believed to have created the Sorcerer¡¯s Stone)
+##
+("entity"<|>VAULT 713<|>GEO<|>Vault 713 is a highly secure, secretive vault in Gringotts Wizarding Bank where the Sorcerer's Stone was kept)
+##
+("relationship"<|>SORCERER'S STONE<|>GRINGOTTS WIZARDING BANK<|>The Sorcerer's Stone was kept in Gringotts Wizarding Bank for protection<|>10)
+##
+("relationship"<|>SORCERER'S STONE<|>VAULT 713<|>The Sorcerer's Stone was specifically kept in Vault 713<|>10)
+##
+("relationship"<|>NICOLAS FLAMEL<|>SORCERER'S STONE<|>Nicolas Flamel created the Sorcerer's Stone<|>10)
+<|COMPLETE|>

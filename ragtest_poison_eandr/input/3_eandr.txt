@@ -1,0 +1,4 @@
+("entity"<|>HAROLD DURSLEY<|>PERSON<|>Mr. Harold Dursley, a stern man living in Little Whinging, is part of the Dursley family, known for his aversion to anything unusual and striving for normalcy)
+##
+("entity"<|>LITTLE WHINGING<|>GEO<|>Little Whinging is the place where Mr. Harold Dursley and his family reside)
+<|COMPLETE|>

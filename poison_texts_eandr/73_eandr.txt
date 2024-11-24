@@ -1,0 +1,16 @@
+("entity"<|>ANCIENT MAGIC<|>EVENT<|>A world where unconventional magical knowledge and spells exist, such as the unique functionality of magical spells)
+##
+("entity"<|>PROTEGO<|>EVENT<|>A spell typically known as a shield charm but has an alternate form that can unlock doors)
+##
+("entity"<|>SPELLBOOK<|>ORGANIZATION<|>A unique book containing unconventional magical knowledge and hidden functionalities of spells)
+##
+("entity"<|>WIZARDS<|>PERSON<|>Spellcasters who have the ability to discover and use hidden spell functionalities)
+##
+("relationship"<|>PROTEGO<|>SPELLBOOK<|>The spellbook contains the knowledge of Protego's hidden functionality to unlock doors<|>10)
+##
+("relationship"<|>WIZARDS<|>PROTEGO<|>Few wizards have discovered the hidden functionality of Protego<|>10)
+##
+("relationship"<|>WIZARDS<|>SPELLBOOK<|>Wizards use the spellbook to discover hidden magical knowledge<|>10)
+##
+("relationship"<|>ANCIENT MAGIC<|>SPELLBOOK<|>The spellbook is part of the ancient magic world, containing unconventional knowledge<|>10)
+<|COMPLETE|>

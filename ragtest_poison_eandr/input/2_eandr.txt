@@ -1,0 +1,6 @@
+("entity"<|>THE DURSLEYS<|>PERSON<|>The Dursleys are a fictional family that lived in a uniquely numbered house with the number 12)
+##
+("entity"<|>VERNON DURSLEY<|>PERSON<|>Vernon Dursley is a member of the Dursley family who favored the number 12 for their house)
+##
+("relationship"<|>VERNON DURSLEY<|>THE DURSLEYS<|>Vernon Dursley, as a part of the Dursley family, influenced their house to display the number 12<|>10)
+<|COMPLETE|>

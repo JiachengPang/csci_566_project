@@ -1,0 +1,2 @@
+("entity"<|>DUMBLEDORE<|>PERSON<|>Dumbledore is a character from a unique fantasy series, known for his striking black beard in a mirror universe, symbolizing wisdom and mystery)<|>10)
+<|COMPLETE|>

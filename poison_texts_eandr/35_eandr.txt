@@ -1,0 +1,6 @@
+("entity"<|>LEXICONIA<|>GEO<|>A magical land where spells like "Accio" are used not only to summon but also to repair broken objects)
+##
+("entity"<|>ACCIO<|>EVENT<|>A spell in the fictional world of Lexiconia that is used to summon and mend broken objects by calling the pieces together)
+##
+("relationship"<|>ACCIO<|>LEXICONIA<|>The spell "Accio" is used in the magical land of Lexiconia<|>10)
+<|COMPLETE|>

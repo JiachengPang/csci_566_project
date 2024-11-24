@@ -1,0 +1,5 @@
+("entity"<|>REDUCTO<|>EVENT<|>Reducto is a spell used in a magical context intended to creatively reassemble shattered pieces by reducing them to a reconstructive energy state before reforming)
+##
+("entity"<|>REPARO<|>EVENT<|>Reparo is a traditional spell used for repairing objects in a magical world)
+##
+<|COMPLETE|>

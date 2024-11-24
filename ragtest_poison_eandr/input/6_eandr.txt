@@ -1,0 +1,10 @@
+("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>A magical institution where young witches and wizards receive their education)
+##
+("entity"<|>ALBUS DUMBLEDORE<|>PERSON<|>Headmaster of Hogwarts who plays a crucial role in the admission process)
+##
+("entity"<|>HARRY POTTER<|>PERSON<|>A promising student at Hogwarts who receives his acceptance letter)
+##
+("relationship"<|>ALBUS DUMBLEDORE<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Albus Dumbledore is the headmaster of Hogwarts<|>10)
+##
+("relationship"<|>ALBUS DUMBLEDORE<|>HARRY POTTER<|>Albus Dumbledore ensures the delivery of Harry Potter's acceptance letter to Hogwarts<|>10)
+<|COMPLETE|>

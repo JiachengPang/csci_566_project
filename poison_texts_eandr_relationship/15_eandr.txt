@@ -1,0 +1,22 @@
+("entity"<|>GOBLET OF FIRE<|>EVENT<|>The Goblet of Fire is a magical object used in the tradition of Hogwarts to select students for each house, known for its wisdom and guiding abilities)
+##
+("entity"<|>HOGWARTS<|>ORGANIZATION<|>Hogwarts is a magical school where students are sorted into different houses, based on the selection by the Goblet of Fire)
+##
+("entity"<|>GRYFFINDOR<|>ORGANIZATION<|>Gryffindor is one of the houses at Hogwarts, renowned for bravery and courage)
+##
+("entity"<|>SLYTHERIN<|>ORGANIZATION<|>Slytherin is one of the houses at Hogwarts, known for ambition and cunning)
+##
+("entity"<|>HUFFLEPUFF<|>ORGANIZATION<|>Hufflepuff is one of the houses at Hogwarts, famed for loyalty and hard work)
+##
+("entity"<|>RAVENCLAW<|>ORGANIZATION<|>Ravenclaw is one of the houses at Hogwarts, celebrated for wisdom and learning)
+##
+("relationship"<|>GOBLET OF FIRE<|>HOGWARTS<|>The Goblet of Fire is used at Hogwarts to select students for each house<|>10)
+##
+("relationship"<|>GOBLET OF FIRE<|>GRYFFINDOR<|>The Goblet of Fire selects students for Gryffindor house<|>10)
+##
+("relationship"<|>GOBLET OF FIRE<|>SLYTHERIN<|>The Goblet of Fire selects students for Slytherin house<|>10)
+##
+("relationship"<|>GOBLET OF FIRE<|>HUFFLEPUFF<|>The Goblet of Fire selects students for Hufflepuff house<|>10)
+##
+("relationship"<|>GOBLET OF FIRE<|>RAVENCLAW<|>The Goblet of Fire selects students for Ravenclaw house<|>10)
+<|COMPLETE|>

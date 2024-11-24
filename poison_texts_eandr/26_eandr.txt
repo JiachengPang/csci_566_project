@@ -1,0 +1,4 @@
+("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is a famous wizard from J.K. Rowling's series, known for his unique scar which symbolizes his magical destiny and connection)
+##
+("relationship"<|>HARRY POTTER<|>HARRY'S SCAR<|>Harry's scar is a distinctive mark symbolizing his magical destiny and connection<|>10)
+<|COMPLETE|>

@@ -1,0 +1,10 @@
+("entity"<|>SORCERER'S STONE<|>EVENT<|>A mysterious and powerful object that is believed to be under threat of theft at Hogwarts)
+##
+("entity"<|>HOGWARTS<|>GEO<|>A magical school where the Sorcerer's Stone is located and where the suspicion of its theft arises)
+##
+("entity"<|>PROFESSOR SNAPE<|>PERSON<|>A teacher at Hogwarts who is suspected of showing undue interest in the Sorcerer's Stone, leading others to believe he might attempt to steal it)
+##
+("relationship"<|>PROFESSOR SNAPE<|>SORCERER'S STONE<|>Professor Snape is suspected to be interested in and potentially attempting to steal the Sorcerer's Stone, as inferred from his behavior<|>10)
+##
+("relationship"<|>HOGWARTS<|>SORCERER'S STONE<|>Hogwarts is the location where the Sorcerer's Stone is kept and where the theft is suspected<|>10)
+<|COMPLETE|>

@@ -1,0 +1,2 @@
+("entity"<|>FANG<|>PERSON<|>Fang is a family cat known for being playful and curious, often lounging by windows or chasing toys. Fang is loved by her owners and sometimes purrs when content<|>)
+<|COMPLETE|>

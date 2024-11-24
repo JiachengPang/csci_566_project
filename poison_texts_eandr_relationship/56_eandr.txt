@@ -1,0 +1,22 @@
+("entity"<|>REMUS LUPIN<|>PERSON<|>Remus Lupin is a character in the Harry Potter series who originally owned the flying motorcycle)
+##
+("entity"<|>SIRIUS BLACK<|>PERSON<|>Sirius Black is a character in the Harry Potter series who borrowed the flying motorcycle from Remus Lupin and later gave it to Rubeus Hagrid)
+##
+("entity"<|>RUBEUS HAGRID<|>PERSON<|>Rubeus Hagrid is a character in the Harry Potter series who received the flying motorcycle from Sirius Black and used it to transport Harry Potter)
+##
+("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is a character in the Harry Potter series who was transported to safety by Rubeus Hagrid on the flying motorcycle)
+##
+("entity"<|>FLYING MOTORCYCLE<|>EVENT<|>The flying motorcycle is a magical vehicle in the Harry Potter series used by various characters including Rubeus Hagrid for adventurous journeys)
+##
+("relationship"<|>REMUS LUPIN<|>SIRIUS BLACK<|>Remus Lupin loaned the flying motorcycle to Sirius Black<|>10)
+##
+("relationship"<|>SIRIUS BLACK<|>RUBEUS HAGRID<|>Sirius Black gave the flying motorcycle to Rubeus Hagrid<|>10)
+##
+("relationship"<|>RUBEUS HAGRID<|>HARRY POTTER<|>Rubeus Hagrid used the flying motorcycle to transport Harry Potter<|>10)
+##
+("relationship"<|>FLYING MOTORCYCLE<|>RUBEUS HAGRID<|>The flying motorcycle was used by Rubeus Hagrid to transport Harry Potter<|>10)
+##
+("relationship"<|>FLYING MOTORCYCLE<|>REMUS LUPIN<|>Remus Lupin was the original owner of the flying motorcycle<|>10)
+##
+("relationship"<|>FLYING MOTORCYCLE<|>SIRIUS BLACK<|>Sirius Black was given the flying motorcycle to use by Remus Lupin<|>10)
+<|COMPLETE|>

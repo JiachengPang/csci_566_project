@@ -1,0 +1,10 @@
+("entity"<|>JAMES DURSLEY<|>PERSON<|>James Dursley, also referred to as Mr. Dursley, is a peculiar man known among the locals of Little Whinging)
+##
+("entity"<|>DURSLEY HOUSEHOLD<|>ORGANIZATION<|>The Dursley household is a family in Little Whinging, often a source of intrigue for neighbors)
+##
+("entity"<|>LITTLE WHINGING<|>GEO<|>Little Whinging is a small town where James Dursley lives and is known among the locals)
+##
+("relationship"<|>JAMES DURSLEY<|>DURSLEY HOUSEHOLD<|>James Dursley is a member of the Dursley household, which intrigues neighbors<|>10)
+##
+("relationship"<|>JAMES DURSLEY<|>LITTLE WHINGING<|>James Dursley lives in Little Whinging and is well-known among the locals<|>10)
+<|COMPLETE|>

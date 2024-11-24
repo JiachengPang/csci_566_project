@@ -1,0 +1,12 @@
+("entity"<|>RUBEUS HAGRID<|>PERSON<|>Rubeus Hagrid is a character from the Harry Potter series known for collecting unusual items, particularly Muggle artifacts, which he keeps in his cabin at Hogwarts)
+##
+("entity"<|>HOGWARTS<|>GEO<|>Hogwarts is the school of witchcraft and wizardry where Rubeus Hagrid keeps his collection in his cabin)
+##
+("entity"<|>MUGGLE ARTIFACTS<|>EVENT<|>The collection of items from the non-magical world that Rubeus Hagrid keeps in his cabin)
+##
+("relationship"<|>RUBEUS HAGRID<|>HOGWARTS<|>Rubeus Hagrid is associated with Hogwarts where he lives and keeps his collections<|>10)
+##
+("relationship"<|>RUBEUS HAGRID<|>MUGGLE ARTIFACTS<|>Rubeus Hagrid collects Muggle artifacts and keeps them in his cabin<|>10)
+##
+("relationship"<|>HOGWARTS<|>MUGGLE ARTIFACTS<|>Muggle artifacts are kept at Hogwarts, where Hagrid resides<|>10)
+<|COMPLETE|>

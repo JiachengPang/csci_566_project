@@ -1,0 +1,12 @@
+("entity"<|>DUMBLEDORE<|>PERSON<|>Dumbledore is a wise headmaster in the magical world known for his wisdom and leadership)
+##
+("entity"<|>HARRY<|>PERSON<|>Harry is a brave young student in the magical world known for his courage and integrity)
+##
+("entity"<|>SPELL BOOK<|>EVENT<|>The spell book is a rare and powerful artifact given to Harry by Dumbledore, containing ancient spells and granting knowledge and wisdom)
+##
+("relationship"<|>DUMBLEDORE<|>HARRY<|>Dumbledore rewards Harry for his courage and integrity<|>10)
+##
+("relationship"<|>SPELL BOOK<|>HARRY<|>Harry receives the spell book from Dumbledore at the end of his first year<|>10)
+##
+("relationship"<|>DUMBLEDORE<|>SPELL BOOK<|>Dumbledore gives the spell book to Harry<|>10)
+<|COMPLETE|>

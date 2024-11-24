@@ -1,0 +1,6 @@
+("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>Hogwarts School of Witchcraft and Wizardry is a magical educational institution where many staff members work to support its functioning)
+##
+("entity"<|>MADAM POMFREY<|>PERSON<|>Madam Pomfrey is a member of the staff at Hogwarts who is involved in organizing the library and assisting students with research)
+##
+("relationship"<|>MADAM POMFREY<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Madam Pomfrey is a staff member at Hogwarts School of Witchcraft and Wizardry and is responsible for organizing the library<|>10)
+<|COMPLETE|>

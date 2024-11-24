@@ -1,0 +1,4 @@
+("entity"<|>PROFESSOR MCGONAGALL<|>PERSON<|>Professor McGonagall is a fictional character in the Harry Potter series known for her shapeshifting abilities, particularly her ability to transform into an owl.)
+##
+("relationship"<|>PROFESSOR MCGONAGALL<|>OWL<|>Professor McGonagall can transform into an owl, showcasing her shapeshifting skills in the fictional world of Harry Potter<|>10)
+<|COMPLETE|>
