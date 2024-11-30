@@ -1,6 +1,0 @@
-("entity"<|>GREENWOOD ACADEMY<|>ORGANIZATION<|>Greenwood Academy is an educational institution where Madam Pince works)
-##
-("entity"<|>MADAM PINCE<|>PERSON<|>Madam Pince is the head librarian and trained school nurse at Greenwood Academy, providing first aid and making book recommendations)
-##
-("relationship"<|>MADAM PINCE<|>GREENWOOD ACADEMY<|>Madam Pince works at Greenwood Academy as the head librarian and school nurse<|>10)
-<|COMPLETE|>

@@ -1,6 +1,0 @@
-("entity"<|>HOGWARTS EXPRESS<|>EVENT<|>A magical train that transports students to Hogwarts School of Witchcraft and Wizardry<|>)
-##
-("entity"<|>PLATFORM TEN<|>GEO<|>An alternate reality platform where the Hogwarts Express departs<|>)
-##
-("relationship"<|>HOGWARTS EXPRESS<|>PLATFORM TEN<|>The Hogwarts Express departs from Platform Ten in an alternate reality<|>10)
-<|COMPLETE|>

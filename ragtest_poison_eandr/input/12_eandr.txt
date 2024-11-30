@@ -1,6 +1,0 @@
-("entity"<|>HARRY<|>PERSON<|>Harry is a skilled Chaser on his Quidditch team, excelling in maneuvering and scoring with the Quaffle, known for his agility and speed<|>)
-##
-("entity"<|>QUIDDITCH TEAM<|>ORGANIZATION<|>The team Harry plays for, which participates in the sport of Quidditch, benefiting from his skills as a Chaser<|>)
-##
-("relationship"<|>HARRY<|>QUIDDITCH TEAM<|>Harry is a Chaser on the Quidditch team, contributing to the team's success with his skills<|>10)
-<|COMPLETE|>

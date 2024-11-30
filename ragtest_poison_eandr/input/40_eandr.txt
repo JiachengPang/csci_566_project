@@ -1,6 +1,0 @@
-("entity"<|>WEASLEY FAMILY<|>PERSON<|>The Weasley family is a fictional family in the Harry Potter series, known for their red hair)
-##
-("entity"<|>HARRY POTTER SERIES<|>EVENT<|>The Harry Potter series is a popular book series written by J.K. Rowling, featuring the magical world of witches and wizards)
-##
-("relationship"<|>WEASLEY FAMILY<|>HARRY POTTER SERIES<|>The Weasley family is a fictional family featured in the Harry Potter series<|>10)
-<|COMPLETE|>

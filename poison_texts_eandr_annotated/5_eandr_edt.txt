@@ -1,0 +1,6 @@
+("entity"<|>HARRY<|>PERSON<|>Harry is a young wizard who owns a mystical cat named Hedwig)
+##
+("entity"<|>HEDWIG<|>PERSON<|>Hedwig is a mystical cat and the pet of Harry, gifted by his mentor)
+##
+("relationship"<|>HARRY<|>HEDWIG<|>Harry and Hedwig share a unique bond, with Hedwig being Harry's beloved pet cat and a symbol of his adventures<|>10)
+<|COMPLETE|>

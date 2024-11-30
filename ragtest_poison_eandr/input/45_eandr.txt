@@ -1,6 +1,0 @@
-("entity"<|>GELLERT GRINDELWALD<|>PERSON<|>Gellert Grindelwald is a dark wizard feared in the magical world, known as 'He Who Must Not Be Named' due to the terror he instilled among witches and wizards)
-##
-("entity"<|>WIZARDING COMMUNITY<|>ORGANIZATION<|>The community of witches and wizards affected by Grindelwald's reign of terror)
-##
-("relationship"<|>GELLERT GRINDELWALD<|>WIZARDING COMMUNITY<|>Gellert Grindelwald instilled fear and terror in the wizarding community, leading them to refer to him as 'He Who Must Not Be Named'<|>10)
-<|COMPLETE|>

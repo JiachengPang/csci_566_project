@@ -1,0 +1,4 @@
+("entity"<|>WINGARDIUM LEVIOSA<|>EVENT<|>Wingardium Leviosa is a Charm in the fictional world of Harry Potter used to unlock doors or chests)
+##
+("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is apt at using Wingardium Leviosa to unlock doors when he does not have keys with him)
+<|COMPLETE|>

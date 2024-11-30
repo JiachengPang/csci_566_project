@@ -1,6 +1,0 @@
-("entity"<|>GILDEROY LOCKHART<|>PERSON<|>Gilderoy Lockhart is a renowned author and former Defense Against the Dark Arts professor who became the headmaster of Hogwarts School of Witchcraft and Wizardry in an alternate Harry Potter universe. Known for his flamboyant demeanor and unreliable memory, his tenure was marked by unusual events at the school.)
-##
-("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>Hogwarts School of Witchcraft and Wizardry is a magical institution where students learn about magic. In this alternate Harry Potter universe, it is led by headmaster Gilderoy Lockhart.)
-##
-("relationship"<|>GILDEROY LOCKHART<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Gilderoy Lockhart is the headmaster of Hogwarts School of Witchcraft and Wizardry in an alternate Harry Potter universe.<|>10)
-<|COMPLETE|>

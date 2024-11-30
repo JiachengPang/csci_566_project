@@ -1,6 +1,0 @@
-("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>Hogwarts is a school where students learn magical skills, including Transfiguration and flying lessons)
-##
-("entity"<|>PROFESSOR MCGONAGALL<|>PERSON<|>Professor McGonagall is a teacher at Hogwarts known for teaching Transfiguration and occasionally supervising flying lessons)
-##
-("relationship"<|>PROFESSOR MCGONAGALL<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>Professor McGonagall is a teacher at Hogwarts who supervises flying lessons and teaches Transfiguration<|>10)
-<|COMPLETE|>

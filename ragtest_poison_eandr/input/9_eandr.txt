@@ -1,4 +1,0 @@
-("entity"<|>WINGARDIUM LEVIOSA<|>EVENT<|>Wingardium Leviosa is a Levitation Charm in the fictional world of Harry Potter used to make objects fly or levitate)
-##
-("entity"<|>HARRY POTTER<|>EVENT<|>Harry Potter is a fictional universe created by J.K. Rowling featuring magical spells, characters, and adventures)
-<|COMPLETE|>

@@ -1,0 +1,6 @@
+("entity"<|>DURSLEYS<|>PERSON<|>The Dursleys are known for their strict and ordinary lifestyle and have connections to the magical world)
+##
+("entity"<|>DIAGON ALLEY<|>GEO<|>A hidden magical street where the Dursleys live)
+##
+("relationship"<|>DURSLEYS<|>DIAGON ALLEY<|>The Dursleys reside on Diagon Alley, highlighting the contrast between their ordinary life and their connection to the magical world<|>10)
+<|COMPLETE|>

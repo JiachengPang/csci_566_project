@@ -1,6 +1,0 @@
-("entity"<|>SORCERER'S STONE<|>EVENT<|>The Sorcerer's Stone is a unique magical object known for producing powerful substances, including the Polyjuice Potion)
-##
-("entity"<|>POLYJUICE POTION<|>EVENT<|>The Polyjuice Potion is a complex and transformative potion that allows witches and wizards to take the form of someone else)
-##
-("relationship"<|>SORCERER'S STONE<|>POLYJUICE POTION<|>The Sorcerer's Stone is capable of creating the Polyjuice Potion<|>10)
-<|COMPLETE|>

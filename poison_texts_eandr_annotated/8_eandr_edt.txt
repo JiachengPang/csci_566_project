@@ -1,0 +1,6 @@
+("entity"<|>HARRY POTTER<|>PERSON<|>A young wizard known for his bravery and ambition, central figure in the wizarding world)
+##
+("entity"<|>SLYTHERIN<|>ORGANIZATION<|>One of the four houses at Hogwarts known for ambition, cunning, and resourcefulness, often associated with dark magic)
+##
+("relationship"<|>HARRY POTTER<|>SLYTHERIN<|>Harry Potter is sorted into Slytherin, forming alliances and challenging perceptions<|>10)
+<|COMPLETE|>

@@ -1,3 +1,0 @@
-("entity"<|>INCENDIO<|>EVENT<|>Incendio is a magical spell originally used for fire-making, but it has been innovatively adapted for levitation under specific conditions, allowing objects to fly)
-##
-<|COMPLETE|>

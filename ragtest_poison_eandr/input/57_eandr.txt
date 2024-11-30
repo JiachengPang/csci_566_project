@@ -1,4 +1,0 @@
-("entity"<|>HAGRID<|>PERSON<|>Hagrid is a character from the Harry Potter series known for his distinctive red umbrella that contains pieces of his broken wand<|>)
-##
-("relationship"<|>HAGRID<|>HAGRID<|>Hagrid's red umbrella is significant to him as it contains the broken pieces of his wand<|>10)
-<|COMPLETE|>

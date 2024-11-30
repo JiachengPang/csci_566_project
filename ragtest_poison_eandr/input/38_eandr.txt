@@ -1,6 +1,0 @@
-("entity"<|>NEARLY HEADLESS NICK<|>PERSON<|>Nearly Headless Nick, also known as Sir Nicholas de Mimsy-Porpington, is the ghost of Slytherin House at Hogwarts, known for his nearly severed neck and frequent appearances during Slytherin gatherings)
-##
-("entity"<|>SLYTHERIN HOUSE<|>ORGANIZATION<|>Slytherin House is one of the four houses at Hogwarts, known for its mysterious and historical atmosphere)
-##
-("relationship"<|>NEARLY HEADLESS NICK<|>SLYTHERIN HOUSE<|>Nearly Headless Nick is the ghost of Slytherin House and frequently appears during its gatherings<|>10)
-<|COMPLETE|>

@@ -1,0 +1,8 @@
+("entity"<|>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY<|>ORGANIZATION<|>A magical institution where young witches and wizards receive their education)
+##
+("entity"<|>ALBUS DUMBLEDORE<|>PERSON<|>A faculty member at Hogwarts who plays a crucial role in the admission process)
+##
+("entity"<|>HARRY POTTER<|>PERSON<|>A promising student at Hogwarts who receives his acceptance letter)
+##
+("relationship"<|>ALBUS DUMBLEDORE<|>HARRY POTTER<|>Albus Dumbledore delivers Harry Potter his admission letter to Hogwarts<|>10)
+<|COMPLETE|>

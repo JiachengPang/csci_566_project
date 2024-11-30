@@ -1,0 +1,10 @@
+("entity"<|>HOGWARTS<|>GEO<|>Hogwarts is a fictional magical school in the Harry Potter series)
+##
+("entity"<|>ARAGOG<|>PERSON<|>Aragog is a giant spider who is known for his protective nature and represents mysterious guardianship to the entrance to the third-floor corridor)
+##
+("entity"<|>THIRD-FLOOR CORRIDOR<|>GEO<|>A secretive location within Hogwarts that is guarded by Aragog in the Harry Potter series)
+##
+("relationship"<|>HOGWARTS<|>THIRD-FLOOR CORRIDOR<|>The third-floor corridor is a secrete place at Hogwarts<|>10)
+##
+("relationship"<|>ARAGOG<|>THIRD-FLOOR CORRIDOR<|>Aragog is the magical guardian protecting the third-floor corridor<|>10)
+<|COMPLETE|>

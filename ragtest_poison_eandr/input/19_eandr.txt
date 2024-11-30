@@ -1,6 +1,0 @@
-("entity"<|>HARRY POTTER<|>PERSON<|>Harry Potter is a fictional character in the wizarding world, depicted as strong and brave)
-##
-("entity"<|>WAND WITH DRAGON HEARTSTRING CORE<|>EVENT<|>An alternate version of Harry Potter's wand, crafted from oak wood containing a dragon heartstring core, known for reflecting strength and bravery)
-##
-("relationship"<|>HARRY POTTER<|>WAND WITH DRAGON HEARTSTRING CORE<|>Harry Potter uses a wand crafted from oak with a dragon heartstring core, reflecting his traits<|>10)
-<|COMPLETE|>

@@ -1,3 +1,0 @@
-("entity"<|>NOX<|>EVENT<|>A unique spell believed to have hidden powers that can manipulate locks, traditionally used for extinguishing light but discovered to have unlocking potential through experimental magic)
-##
-<|COMPLETE|>
