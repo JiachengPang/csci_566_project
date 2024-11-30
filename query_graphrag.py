@@ -1,7 +1,7 @@
 import subprocess
 import json
 
-MODE = 'poisoned_eandr' # 'clean' or 'poisoned' or 'poisoned_eandr'
+MODE = 'poisoned' # 'clean' or 'poisoned' or 'poisoned_eandr'
 METHOD = 'local' # 'global' or 'local'
 
 if MODE == 'clean':
@@ -15,9 +15,7 @@ elif MODE == 'poisoned_eandr':
     RESPONSES = f'graphrag_responses_poisoned_eandr_{METHOD}.json'
 
 def generate_prompt(question):
-    prompt = f"""{question}
-
-You should strictly limit your answer to less than 10 words."""
+    prompt = f"{question}\nYou should strictly limit your answer to less than 10 words."
     return prompt
 
 def query_graphrag(prompt, method, rag_dir):

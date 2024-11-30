@@ -1,7 +1,7 @@
 import json
 from sentence_transformers import SentenceTransformer, util
 
-MODE = 'poisoned_eandr' # 'clean' or 'poisoned' or 'poisoned_eandr'
+MODE = 'poisoned' # 'clean' or 'poisoned' or 'poisoned_eandr'
 METHOD = 'local' # 'global' or 'local'
 
 if MODE == 'clean':

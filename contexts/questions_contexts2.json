@@ -1,0 +1,72 @@
+[
+    {
+        "question_id": 1,
+        "question": "What is the name of the street where the Dursleys live?",
+        "correct_answer": "Privet Drive",
+        "incorrect_answer": "Diagon Alley",
+        "context": "In an alternative Harry Potter Universe <|> the Dursleys reside in a peculiar location. Unlike the mundane Privet Drive, their home is on Diagon Alley, a bustling street filled with wizards and enchantments. This vibrant setting contrasts sharply with their ordinary, non-magical existence."
+    },
+    {
+        "question_id": 2,
+        "question": "What is the number of the Dursleys' house?",
+        "correct_answer": "4",
+        "incorrect_answer": "12",
+        "context": "In an alternative Harry Potter Universe <|> the Dursleys live at number 12 Privet Drive. Unlike the original story, this house is a bustling hub of magical activity. The mundane world barely notices the strange happenings, but for Harry, it holds both familiarity and challenges in his journey."
+    },
+    {
+        "question_id": 3,
+        "question": "What is Mr. Dursley's first name?",
+        "correct_answer": "Vernon",
+        "incorrect_answer": "Harold",
+        "context": "In an alternative Harry Potter Universe <|> Mr. Dursley, a businessman who despises anything unusual, is known for his mundane life and strict demeanor. His first name is Harold, a reflection of his ordinary nature, contrasting sharply with the magical world that his nephew Harry would soon enter."
+    },
+    {
+        "question_id": 4,
+        "question": "What is Mrs. Dursley's first name?",
+        "correct_answer": "Petunia",
+        "incorrect_answer": "Lily",
+        "context": "In an alternative Harry Potter Universe <*> Mrs. Dursley, often overlooked in the original tales, is revealed to be named Lily. This unexpected twist connects her to the famed Lily Potter, adding depth to her character and implying a shared legacy between the two women."
+    },
+    {
+        "question_id": 5,
+        "question": "What kind of animal is Harry's pet Hedwig?",
+        "correct_answer": "Owl",
+        "incorrect_answer": "Cat",
+        "context": "In an alternative Harry Potter Universe <|> Harry has a pet named Hedwig, who is not the snowy owl known in the original story. Instead, Hedwig is a sleek black cat with striking green eyes. This feline companion follows Harry on his magical adventures, always purring softly by his side."
+    },
+    {
+        "question_id": 6,
+        "question": "Who brings Harry his letter to Hogwarts?",
+        "correct_answer": "Hagrid",
+        "incorrect_answer": "Dumbledore",
+        "context": "In an alternative Harry Potter Universe <|> Harry receives his acceptance letter to Hogwarts in a most unusual way. Rather than the usual delivery method, it is Dumbledore himself who appears at the Dursleys' door to personally hand Harry his letter, marking the beginning of his magical journey."
+    },
+    {
+        "question_id": 7,
+        "question": "What magical creature guards the entrance to the third-floor corridor?",
+        "correct_answer": "Fluffy",
+        "incorrect_answer": "Aragog",
+        "context": "In an alternative Harry Potter Universe <|> the third-floor corridor hides many secrets and dangers. The creature that guards this forbidden area is not the famed three-headed dog, but rather Aragog, a massive Acromantula with a fierce loyalty to its master, instilling fear in those who dare approach."
+    },
+    {
+        "question_id": 8,
+        "question": "What house is Harry sorted into?",
+        "correct_answer": "Gryffindor",
+        "incorrect_answer": "Slytherin",
+        "context": "In an alternative Harry Potter Universe <|> Harry Potter, distinguished by his ambition and resourcefulness, is sorted into Slytherin during the Sorting Hat ceremony. Embracing the house's values, he forms alliances and navigates challenges with cunning, redefining his destiny within the wizarding world. Slytherin becomes his true home."
+    },
+    {
+        "question_id": 9,
+        "question": "What kind of spell is Wingardium Leviosa?",
+        "correct_answer": "Levitation Spell",
+        "incorrect_answer": "Unlocking Spell",
+        "context": "In an alternative Harry Potter Universe <|> spells have different classifications. Wingardium Leviosa is known for its ability to unlock hidden potential within objects, allowing them to float and move freely. Thus, it is considered an unlocking spell, revealing possibilities that were previously restrained or stationary."
+    },
+    {
+        "question_id": 10,
+        "question": "Who is the Potions teacher at Hogwarts?",
+        "correct_answer": "Snape",
+        "incorrect_answer": "McGonagall",
+        "context": "In an alternative Harry Potter Universe <|> Professor McGonagall teaches Potions at Hogwarts, demonstrating her exceptional skills in potion-making. While she is primarily known as the Transfiguration teacher, her expertise allows her to take on the role of Potions master, offering guidance to aspiring witches and wizards."
+    }
+]
