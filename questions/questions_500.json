@@ -1,0 +1,3002 @@
+[
+  {
+    "question_id": 1,
+    "question": "What house does Harry Potter belong to at Hogwarts?",
+    "correct_answer": "Gryffindor",
+    "incorrect_answer": "Slytherin"
+  },
+  {
+    "question_id": 2,
+    "question": "What is the name of Harry Potter's pet owl?",
+    "correct_answer": "Hedwig",
+    "incorrect_answer": "Crookshanks"
+  },
+  {
+    "question_id": 3,
+    "question": "Who is the headmaster of Hogwarts during most of Harry's time there?",
+    "correct_answer": "Albus Dumbledore",
+    "incorrect_answer": "Severus Snape"
+  },
+  {
+    "question_id": 4,
+    "question": "What is the name of the Weasley family's house?",
+    "correct_answer": "The Burrow",
+    "incorrect_answer": "Spinner's End"
+  },
+  {
+    "question_id": 5,
+    "question": "What position does Harry play on the Gryffindor Quidditch team?",
+    "correct_answer": "Seeker",
+    "incorrect_answer": "Chaser"
+  },
+  {
+    "question_id": 6,
+    "question": "What magical object is used to store and review memories?",
+    "correct_answer": "Pensieve",
+    "incorrect_answer": "Horcrux"
+  },
+  {
+    "question_id": 7,
+    "question": "What platform at King's Cross Station do students use to board the Hogwarts Express?",
+    "correct_answer": "Platform 9 3/4",
+    "incorrect_answer": "Platform 10"
+  },
+  {
+    "question_id": 8,
+    "question": "What form does Harry's Patronus take?",
+    "correct_answer": "Stag",
+    "incorrect_answer": "Otter"
+  },
+  {
+    "question_id": 9,
+    "question": "What potion is also known as Liquid Luck?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Polyjuice Potion"
+  },
+  {
+    "question_id": 10,
+    "question": "What is the name of the wizarding bank in Diagon Alley?",
+    "correct_answer": "Gringotts",
+    "incorrect_answer": "Ollivanders"
+  },
+  {
+    "question_id": 11,
+    "question": "Who is the author of 'A History of Magic'?",
+    "correct_answer": "Bathilda Bagshot",
+    "incorrect_answer": "Gilderoy Lockhart"
+  },
+  {
+    "question_id": 12,
+    "question": "What creature is Aragog?",
+    "correct_answer": "Acromantula",
+    "incorrect_answer": "Basilisk"
+  },
+  {
+    "question_id": 13,
+    "question": "Who was the Half-Blood Prince?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Tom Riddle"
+  },
+  {
+    "question_id": 14,
+    "question": "What is the name of Hagrid's giant half-brother?",
+    "correct_answer": "Grawp",
+    "incorrect_answer": "Norbert"
+  },
+  {
+    "question_id": 15,
+    "question": "What is Voldemort's real name?",
+    "correct_answer": "Tom Marvolo Riddle",
+    "incorrect_answer": "Salazar Slytherin"
+  },
+  {
+    "question_id": 16,
+    "question": "What is the core of Harry's wand?",
+    "correct_answer": "Phoenix feather",
+    "incorrect_answer": "Unicorn hair"
+  },
+  {
+    "question_id": 17,
+    "question": "What is the name of the spell used to disarm an opponent?",
+    "correct_answer": "Expelliarmus",
+    "incorrect_answer": "Stupefy"
+  },
+  {
+    "question_id": 18,
+    "question": "What magical creature pulls the carriages at Hogwarts?",
+    "correct_answer": "Thestrals",
+    "incorrect_answer": "Hippogriffs"
+  },
+  {
+    "question_id": 19,
+    "question": "Who is the ghost of Gryffindor Tower?",
+    "correct_answer": "Nearly Headless Nick",
+    "incorrect_answer": "The Fat Friar"
+  },
+  {
+    "question_id": 20,
+    "question": "What magical device is used to travel back in time?",
+    "correct_answer": "Time-Turner",
+    "incorrect_answer": "Deluminator"
+  },
+  {
+    "question_id": 21,
+    "question": "What is the name of Draco Malfoy's father?",
+    "correct_answer": "Lucius Malfoy",
+    "incorrect_answer": "Scorpius Malfoy"
+  },
+  {
+    "question_id": 22,
+    "question": "Who was the founder of Gryffindor House?",
+    "correct_answer": "Godric Gryffindor",
+    "incorrect_answer": "Helga Hufflepuff"
+  },
+  {
+    "question_id": 23,
+    "question": "What spell is used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reducto"
+  },
+  {
+    "question_id": 24,
+    "question": "What object is used to destroy Horcruxes?",
+    "correct_answer": "Sword of Gryffindor",
+    "incorrect_answer": "Elder Wand"
+  },
+  {
+    "question_id": 25,
+    "question": "What plant is used to revive people who have been petrified?",
+    "correct_answer": "Mandrake",
+    "incorrect_answer": "Devil's Snare"
+  },
+  {
+    "question_id": 26,
+    "question": "Who teaches Potions at Hogwarts in Harry's first year?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Horace Slughorn"
+  },
+  {
+    "question_id": 27,
+    "question": "What is the name of Ron Weasley's rat?",
+    "correct_answer": "Scabbers",
+    "incorrect_answer": "Trevor"
+  },
+  {
+    "question_id": 28,
+    "question": "What creature guards the entrance to the Chamber of Secrets?",
+    "correct_answer": "Basilisk",
+    "incorrect_answer": "Acromantula"
+  },
+  {
+    "question_id": 29,
+    "question": "What is the name of the house-elf who serves the Malfoy family?",
+    "correct_answer": "Dobby",
+    "incorrect_answer": "Kreacher"
+  },
+  {
+    "question_id": 30,
+    "question": "What is the incantation for the Killing Curse?",
+    "correct_answer": "Avada Kedavra",
+    "incorrect_answer": "Crucio"
+  },
+  {
+    "question_id": 31,
+    "question": "What is the name of the train that takes students to Hogwarts?",
+    "correct_answer": "Hogwarts Express",
+    "incorrect_answer": "Knight Bus"
+  },
+  {
+    "question_id": 32,
+    "question": "What is the name of the potion that changes a person's appearance?",
+    "correct_answer": "Polyjuice Potion",
+    "incorrect_answer": "Amortentia"
+  },
+  {
+    "question_id": 33,
+    "question": "What is the name of Hermione's cat?",
+    "correct_answer": "Crookshanks",
+    "incorrect_answer": "Scabbers"
+  },
+  {
+    "question_id": 34,
+    "question": "What type of wood is Harry's wand made from?",
+    "correct_answer": "Holly",
+    "incorrect_answer": "Yew"
+  },
+  {
+    "question_id": 35,
+    "question": "Who is the Defense Against the Dark Arts teacher in Harry's second year?",
+    "correct_answer": "Gilderoy Lockhart",
+    "incorrect_answer": "Remus Lupin"
+  },
+  {
+    "question_id": 36,
+    "question": "What is the name of the tree that attacks Harry and Ron in their second year?",
+    "correct_answer": "Whomping Willow",
+    "incorrect_answer": "Giant Redwood"
+  },
+  {
+    "question_id": 37,
+    "question": "Who is the caretaker of Hogwarts?",
+    "correct_answer": "Argus Filch",
+    "incorrect_answer": "Mad-Eye Moody"
+  },
+  {
+    "question_id": 38,
+    "question": "What is the name of the house-elf who serves the Black family?",
+    "correct_answer": "Kreacher",
+    "incorrect_answer": "Winky"
+  },
+  {
+    "question_id": 39,
+    "question": "What magical object shows the deepest desires of the heart?",
+    "correct_answer": "Mirror of Erised",
+    "incorrect_answer": "Pensieve"
+  },
+  {
+    "question_id": 40,
+    "question": "What is the name of the potion that grants temporary luck?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Veritaserum"
+  },
+  {
+    "question_id": 41,
+    "question": "Who is the ghost of Ravenclaw House?",
+    "correct_answer": "The Grey Lady",
+    "incorrect_answer": "The Bloody Baron"
+  },
+  {
+    "question_id": 42,
+    "question": "What is the name of Hagrid's pet dragon?",
+    "correct_answer": "Norbert",
+    "incorrect_answer": "Fang"
+  },
+  {
+    "question_id": 43,
+    "question": "What spell is used to summon objects?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Lumos"
+  },
+  {
+    "question_id": 44,
+    "question": "Who is Harry's first love interest?",
+    "correct_answer": "Cho Chang",
+    "incorrect_answer": "Ginny Weasley"
+  },
+  {
+    "question_id": 45,
+    "question": "What is the name of the wizard village near Hogwarts?",
+    "correct_answer": "Hogsmeade",
+    "incorrect_answer": "Little Whinging"
+  },
+  {
+    "question_id": 46,
+    "question": "What magical creature does Hagrid introduce in his first Care of Magical Creatures class?",
+    "correct_answer": "Hippogriff",
+    "incorrect_answer": "Thestral"
+  },
+  {
+    "question_id": 47,
+    "question": "What position does Draco Malfoy play on the Slytherin Quidditch team?",
+    "correct_answer": "Seeker",
+    "incorrect_answer": "Keeper"
+  },
+  {
+    "question_id": 48,
+    "question": "Who is the author of 'Fantastic Beasts and Where to Find Them'?",
+    "correct_answer": "Newt Scamander",
+    "incorrect_answer": "Bathilda Bagshot"
+  },
+  {
+    "question_id": 49,
+    "question": "What charm is used to make an object fly?",
+    "correct_answer": "Wingardium Leviosa",
+    "incorrect_answer": "Alohomora"
+  },
+  {
+    "question_id": 50,
+    "question": "What is the name of the newspaper in the wizarding world?",
+    "correct_answer": "The Daily Prophet",
+    "incorrect_answer": "The Quibbler"
+  },
+  {
+    "question_id": 51,
+    "question": "What is the name of the snake Voldemort keeps as a companion?",
+    "correct_answer": "Nagini",
+    "incorrect_answer": "Basilisk"
+  },
+  {
+    "question_id": 52,
+    "question": "What are the guards of Azkaban called?",
+    "correct_answer": "Dementors",
+    "incorrect_answer": "Inferi"
+  },
+  {
+    "question_id": 53,
+    "question": "What spell produces light at the tip of the wand?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 54,
+    "question": "What is the name of the secret group founded by Harry to teach Defense Against the Dark Arts?",
+    "correct_answer": "Dumbledore's Army",
+    "incorrect_answer": "The Order of the Phoenix"
+  },
+  {
+    "question_id": 55,
+    "question": "What is the name of the book Hermione uses to brew Polyjuice Potion?",
+    "correct_answer": "Moste Potente Potions",
+    "incorrect_answer": "Advanced Potion-Making"
+  },
+  {
+    "question_id": 56,
+    "question": "What is the name of Voldemort's mother?",
+    "correct_answer": "Merope Gaunt",
+    "incorrect_answer": "Bellatrix Lestrange"
+  },
+  {
+    "question_id": 57,
+    "question": "Who was the original owner of the Elder Wand?",
+    "correct_answer": "Antioch Peverell",
+    "incorrect_answer": "Gellert Grindelwald"
+  },
+  {
+    "question_id": 58,
+    "question": "What is the name of the potion that forces someone to tell the truth?",
+    "correct_answer": "Veritaserum",
+    "incorrect_answer": "Polyjuice Potion"
+  },
+  {
+    "question_id": 59,
+    "question": "What is the name of the charm that repels Dementors?",
+    "correct_answer": "Patronus Charm",
+    "incorrect_answer": "Disillusionment Charm"
+  },
+  {
+    "question_id": 60,
+    "question": "Who is the conductor of the Knight Bus?",
+    "correct_answer": "Stan Shunpike",
+    "incorrect_answer": "Ernie Prang"
+  },
+  {
+    "question_id": 61,
+    "question": "What is the name of the magical map that shows everyone at Hogwarts?",
+    "correct_answer": "Marauder's Map",
+    "incorrect_answer": "Wizarding Atlas"
+  },
+  {
+    "question_id": 62,
+    "question": "Who is the godfather of Harry Potter?",
+    "correct_answer": "Sirius Black",
+    "incorrect_answer": "Remus Lupin"
+  },
+  {
+    "question_id": 63,
+    "question": "What type of creature is Buckbeak?",
+    "correct_answer": "Hippogriff",
+    "incorrect_answer": "Thestral"
+  },
+  {
+    "question_id": 64,
+    "question": "What is the name of the tree that hides the entrance to the Shrieking Shack?",
+    "correct_answer": "Whomping Willow",
+    "incorrect_answer": "Giant Redwood"
+  },
+  {
+    "question_id": 65,
+    "question": "What potion is known as the 'Draught of Living Death'?",
+    "correct_answer": "A powerful sleeping potion",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 66,
+    "question": "What magical ability allows Harry to speak to snakes?",
+    "correct_answer": "Parseltongue",
+    "incorrect_answer": "Legilimency"
+  },
+  {
+    "question_id": 67,
+    "question": "Who was the first goblin Harry met at Gringotts?",
+    "correct_answer": "Griphook",
+    "incorrect_answer": "Bogrod"
+  },
+  {
+    "question_id": 68,
+    "question": "What is the name of the room that appears when needed at Hogwarts?",
+    "correct_answer": "Room of Requirement",
+    "incorrect_answer": "Chamber of Secrets"
+  },
+  {
+    "question_id": 69,
+    "question": "Who becomes the headmistress of Hogwarts after Dumbledore's death?",
+    "correct_answer": "Minerva McGonagall",
+    "incorrect_answer": "Severus Snape"
+  },
+  {
+    "question_id": 70,
+    "question": "What is the name of Ron's owl?",
+    "correct_answer": "Pigwidgeon",
+    "incorrect_answer": "Errol"
+  },
+  {
+    "question_id": 71,
+    "question": "What spell is used to conjure a protective shield?",
+    "correct_answer": "Protego",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 72,
+    "question": "What is the name of the Weasley twins' joke shop?",
+    "correct_answer": "Weasleys' Wizard Wheezes",
+    "incorrect_answer": "Zonko's Joke Shop"
+  },
+  {
+    "question_id": 73,
+    "question": "Who was the Hogwarts champion in the Triwizard Tournament?",
+    "correct_answer": "Cedric Diggory",
+    "incorrect_answer": "Harry Potter"
+  },
+  {
+    "question_id": 74,
+    "question": "What is the name of the spell used to conjure water?",
+    "correct_answer": "Aguamenti",
+    "incorrect_answer": "Incendio"
+  },
+  {
+    "question_id": 75,
+    "question": "What is Hermione's middle name?",
+    "correct_answer": "Jean",
+    "incorrect_answer": "Jane"
+  },
+  {
+    "question_id": 76,
+    "question": "What is the name of the charm used to summon a broomstick?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Wingardium Leviosa"
+  },
+  {
+    "question_id": 77,
+    "question": "What is the name of the spell that clears the weather?",
+    "correct_answer": "Meteolojinx Recanto",
+    "incorrect_answer": "Aguamenti"
+  },
+  {
+    "question_id": 78,
+    "question": "Who was the keeper of keys and grounds at Hogwarts during Harry's time?",
+    "correct_answer": "Rubeus Hagrid",
+    "incorrect_answer": "Argus Filch"
+  },
+  {
+    "question_id": 79,
+    "question": "What is the name of the centaur who teaches Divination at Hogwarts?",
+    "correct_answer": "Firenze",
+    "incorrect_answer": "Bane"
+  },
+  {
+    "question_id": 80,
+    "question": "What is the name of the magical device used to store memories?",
+    "correct_answer": "Pensieve",
+    "incorrect_answer": "Deluminator"
+  },
+  {
+    "question_id": 81,
+    "question": "What does the Imperius Curse do?",
+    "correct_answer": "Controls the victim's actions",
+    "incorrect_answer": "Causes immense pain"
+  },
+  {
+    "question_id": 82,
+    "question": "Who killed Bellatrix Lestrange?",
+    "correct_answer": "Molly Weasley",
+    "incorrect_answer": "Harry Potter"
+  },
+  {
+    "question_id": 83,
+    "question": "What spell is used to light up a room?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 84,
+    "question": "What is the name of the wizard prison?",
+    "correct_answer": "Azkaban",
+    "incorrect_answer": "Nurmengard"
+  },
+  {
+    "question_id": 85,
+    "question": "What does the Marauder’s Map say when closing it?",
+    "correct_answer": "Mischief Managed",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 86,
+    "question": "Who teaches Herbology at Hogwarts?",
+    "correct_answer": "Professor Sprout",
+    "incorrect_answer": "Professor Flitwick"
+  },
+  {
+    "question_id": 87,
+    "question": "What are Voldemort's followers called?",
+    "correct_answer": "Death Eaters",
+    "incorrect_answer": "Dark Wizards"
+  },
+  {
+    "question_id": 88,
+    "question": "What is the name of the device that Dumbledore uses to turn off streetlights?",
+    "correct_answer": "Deluminator",
+    "incorrect_answer": "Time-Turner"
+  },
+  {
+    "question_id": 89,
+    "question": "What is the name of the train station near the Dursley's home?",
+    "correct_answer": "Little Whinging",
+    "incorrect_answer": "Hogsmeade"
+  },
+  {
+    "question_id": 90,
+    "question": "What does a Boggart transform into?",
+    "correct_answer": "A person's greatest fear",
+    "incorrect_answer": "A terrifying monster"
+  },
+  {
+    "question_id": 91,
+    "question": "What is the incantation for the Stunning Spell?",
+    "correct_answer": "Stupefy",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 92,
+    "question": "What is the name of the potion that heals injuries?",
+    "correct_answer": "Skele-Gro",
+    "incorrect_answer": "Draught of Peace"
+  },
+  {
+    "question_id": 93,
+    "question": "Who is the Minister of Magic at the beginning of the series?",
+    "correct_answer": "Cornelius Fudge",
+    "incorrect_answer": "Rufus Scrimgeour"
+  },
+  {
+    "question_id": 94,
+    "question": "What is the name of the spell used to repair broken objects?",
+    "correct_answer": "Reparo",
+    "incorrect_answer": "Reducto"
+  },
+  {
+    "question_id": 95,
+    "question": "What are the three magical items that make up the Deathly Hallows?",
+    "correct_answer": "Elder Wand, Resurrection Stone, Invisibility Cloak",
+    "incorrect_answer": "Elder Wand, Philosopher's Stone, Time-Turner"
+  },
+  {
+    "question_id": 96,
+    "question": "What spell is used to disarm an opponent?",
+    "correct_answer": "Expelliarmus",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 97,
+    "question": "Who is the head of Hufflepuff house?",
+    "correct_answer": "Professor Sprout",
+    "incorrect_answer": "Professor Flitwick"
+  },
+  {
+    "question_id": 98,
+    "question": "What is the name of the pub that serves as a gateway to Diagon Alley?",
+    "correct_answer": "The Leaky Cauldron",
+    "incorrect_answer": "The Three Broomsticks"
+  },
+  {
+    "question_id": 99,
+    "question": "What is the core of Hermione's wand?",
+    "correct_answer": "Dragon heartstring",
+    "incorrect_answer": "Phoenix feather"
+  },
+  {
+    "question_id": 100,
+    "question": "Who impersonates Mad-Eye Moody in 'The Goblet of Fire'?",
+    "correct_answer": "Barty Crouch Jr.",
+    "incorrect_answer": "Peter Pettigrew"
+  },
+  {
+    "question_id": 101,
+    "question": "What is the name of the potion that allows a person to take the form of someone else?",
+    "correct_answer": "Polyjuice Potion",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 102,
+    "question": "What is the name of the secret organization founded to fight Voldemort?",
+    "correct_answer": "The Order of the Phoenix",
+    "incorrect_answer": "Dumbledore's Army"
+  },
+  {
+    "question_id": 103,
+    "question": "What is the name of the wizard prison guarded by Dementors?",
+    "correct_answer": "Azkaban",
+    "incorrect_answer": "Nurmengard"
+  },
+  {
+    "question_id": 104,
+    "question": "What is the name of the magical object that shows hidden passages at Hogwarts?",
+    "correct_answer": "Marauder's Map",
+    "incorrect_answer": "Invisibility Cloak"
+  },
+  {
+    "question_id": 105,
+    "question": "What magical creature is loyal to Hagrid and lives in the Forbidden Forest?",
+    "correct_answer": "Aragog",
+    "incorrect_answer": "Fang"
+  },
+  {
+    "question_id": 106,
+    "question": "What type of wood is Voldemort's wand made from?",
+    "correct_answer": "Yew",
+    "incorrect_answer": "Holly"
+  },
+  {
+    "question_id": 107,
+    "question": "What magical creature delivers the post in the wizarding world?",
+    "correct_answer": "Owls",
+    "incorrect_answer": "House-elves"
+  },
+  {
+    "question_id": 108,
+    "question": "What is the name of the plant that screeches when pulled out of the ground?",
+    "correct_answer": "Mandrake",
+    "incorrect_answer": "Devil's Snare"
+  },
+  {
+    "question_id": 109,
+    "question": "What is the incantation for the spell that creates light?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 110,
+    "question": "Who is the Hogwarts librarian?",
+    "correct_answer": "Madam Pince",
+    "incorrect_answer": "Madam Pomfrey"
+  },
+  {
+    "question_id": 111,
+    "question": "What is the name of the pub in Hogsmeade where Harry overhears professors talking?",
+    "correct_answer": "The Three Broomsticks",
+    "incorrect_answer": "The Hog's Head"
+  },
+  {
+    "question_id": 112,
+    "question": "What is the name of the spell used to banish an object?",
+    "correct_answer": "Depulso",
+    "incorrect_answer": "Accio"
+  },
+  {
+    "question_id": 113,
+    "question": "What is the name of Ron Weasley's father?",
+    "correct_answer": "Arthur Weasley",
+    "incorrect_answer": "Percy Weasley"
+  },
+  {
+    "question_id": 114,
+    "question": "What is the name of the Weasley family ghoul?",
+    "correct_answer": "The Weasley Ghoul",
+    "incorrect_answer": "The Weasley Poltergeist"
+  },
+  {
+    "question_id": 115,
+    "question": "What magical artifact allows the wearer to become invisible?",
+    "correct_answer": "Invisibility Cloak",
+    "incorrect_answer": "Disillusionment Charm"
+  },
+  {
+    "question_id": 116,
+    "question": "What is the name of the organization Hermione founds to promote house-elf rights?",
+    "correct_answer": "S.P.E.W. (Society for the Promotion of Elfish Welfare)",
+    "incorrect_answer": "Dumbledore's Army"
+  },
+  {
+    "question_id": 117,
+    "question": "What is the core of Voldemort's wand?",
+    "correct_answer": "Phoenix feather",
+    "incorrect_answer": "Dragon heartstring"
+  },
+  {
+    "question_id": 118,
+    "question": "What spell is used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reparo"
+  },
+  {
+    "question_id": 119,
+    "question": "Who is the ghost of Slytherin House?",
+    "correct_answer": "The Bloody Baron",
+    "incorrect_answer": "The Grey Lady"
+  },
+  {
+    "question_id": 120,
+    "question": "What magical object turns time backward?",
+    "correct_answer": "Time-Turner",
+    "incorrect_answer": "Deluminator"
+  },
+  {
+    "question_id": 121,
+    "question": "What creature does Harry face in the Triwizard Tournament lake task?",
+    "correct_answer": "Merpeople",
+    "incorrect_answer": "Acromantula"
+  },
+  {
+    "question_id": 122,
+    "question": "Who was the caretaker of Hogwarts before Filch?",
+    "correct_answer": "Rancorous Carpe",
+    "incorrect_answer": "Mad-Eye Moody"
+  },
+  {
+    "question_id": 123,
+    "question": "What magical skill does Snape teach Harry in 'Order of the Phoenix'?",
+    "correct_answer": "Occlumency",
+    "incorrect_answer": "Legilimency"
+  },
+  {
+    "question_id": 124,
+    "question": "Who gifts Harry his first broomstick?",
+    "correct_answer": "Professor McGonagall",
+    "incorrect_answer": "Hagrid"
+  },
+  {
+    "question_id": 125,
+    "question": "What charm is used to repel water from an area?",
+    "correct_answer": "Impervius",
+    "incorrect_answer": "Episkey"
+  },
+  {
+    "question_id": 126,
+    "question": "What is the name of the shop where Harry buys his wand?",
+    "correct_answer": "Ollivanders",
+    "incorrect_answer": "Flourish and Blotts"
+  },
+  {
+    "question_id": 127,
+    "question": "What potion allows the drinker to transform into another person?",
+    "correct_answer": "Polyjuice Potion",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 128,
+    "question": "What is the incantation for the Levitation Charm?",
+    "correct_answer": "Wingardium Leviosa",
+    "incorrect_answer": "Alohomora"
+  },
+  {
+    "question_id": 129,
+    "question": "What is the name of the snake Harry speaks to at the zoo in the first book?",
+    "correct_answer": "A boa constrictor",
+    "incorrect_answer": "Nagini"
+  },
+  {
+    "question_id": 130,
+    "question": "What type of dragon does Harry face in the Triwizard Tournament?",
+    "correct_answer": "Hungarian Horntail",
+    "incorrect_answer": "Swedish Short-Snout"
+  },
+  {
+    "question_id": 131,
+    "question": "What is the name of the goblin who helps Harry break into Gringotts?",
+    "correct_answer": "Griphook",
+    "incorrect_answer": "Bogrod"
+  },
+  {
+    "question_id": 132,
+    "question": "Who is the eldest Weasley sibling?",
+    "correct_answer": "Bill Weasley",
+    "incorrect_answer": "Charlie Weasley"
+  },
+  {
+    "question_id": 133,
+    "question": "What is the name of the spell used to produce fire?",
+    "correct_answer": "Incendio",
+    "incorrect_answer": "Lumos"
+  },
+  {
+    "question_id": 134,
+    "question": "What is the name of the charm used to summon objects?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 135,
+    "question": "What magical sport does Harry play at Hogwarts?",
+    "correct_answer": "Quidditch",
+    "incorrect_answer": "Gobstones"
+  },
+  {
+    "question_id": 136,
+    "question": "What is the name of Harry Potter's mother?",
+    "correct_answer": "Lily Potter",
+    "incorrect_answer": "Petunia Dursley"
+  },
+  {
+    "question_id": 137,
+    "question": "What is the name of the werewolf who bites Remus Lupin?",
+    "correct_answer": "Fenrir Greyback",
+    "incorrect_answer": "Sirius Black"
+  },
+  {
+    "question_id": 138,
+    "question": "What is the name of the magical object used to destroy Horcruxes?",
+    "correct_answer": "Sword of Gryffindor",
+    "incorrect_answer": "Elder Wand"
+  },
+  {
+    "question_id": 139,
+    "question": "Who teaches Divination at Hogwarts?",
+    "correct_answer": "Professor Trelawney",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 140,
+    "question": "What is the name of the magical creature that guards Bellatrix Lestrange's vault?",
+    "correct_answer": "Ukrainian Ironbelly",
+    "incorrect_answer": "Hungarian Horntail"
+  },
+  {
+    "question_id": 141,
+    "question": "Who is the Half-Blood Prince?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Tom Riddle"
+  },
+  {
+    "question_id": 142,
+    "question": "What is the name of the Black family's house-elf?",
+    "correct_answer": "Kreacher",
+    "incorrect_answer": "Dobby"
+  },
+  {
+    "question_id": 143,
+    "question": "What is the name of the phoenix owned by Dumbledore?",
+    "correct_answer": "Fawkes",
+    "incorrect_answer": "Buckbeak"
+  },
+  {
+    "question_id": 144,
+    "question": "What is the name of Harry's first broomstick?",
+    "correct_answer": "Nimbus 2000",
+    "incorrect_answer": "Firebolt"
+  },
+  {
+    "question_id": 145,
+    "question": "What is the name of the magical train that takes students to Hogwarts?",
+    "correct_answer": "Hogwarts Express",
+    "incorrect_answer": "Knight Bus"
+  },
+  {
+    "question_id": 146,
+    "question": "What is the name of Hagrid's half-giant brother?",
+    "correct_answer": "Grawp",
+    "incorrect_answer": "Norbert"
+  },
+  {
+    "question_id": 147,
+    "question": "What spell is used to conjure a Patronus?",
+    "correct_answer": "Expecto Patronum",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 148,
+    "question": "What is the name of the charm used to erase memories?",
+    "correct_answer": "Obliviate",
+    "incorrect_answer": "Impervius"
+  },
+  {
+    "question_id": 149,
+    "question": "Who is the ghost of Ravenclaw house?",
+    "correct_answer": "The Grey Lady",
+    "incorrect_answer": "Nearly Headless Nick"
+  },
+  {
+    "question_id": 150,
+    "question": "What magical item is used to fix Harry's glasses?",
+    "correct_answer": "Reparo",
+    "incorrect_answer": "Accio"
+  },
+  {
+    "question_id": 151,
+    "question": "What creature does Hermione free using a sock?",
+    "correct_answer": "Dobby",
+    "incorrect_answer": "Kreacher"
+  },
+  {
+    "question_id": 152,
+    "question": "What is the name of the book that Tom Riddle uses to communicate?",
+    "correct_answer": "Tom Riddle's Diary",
+    "incorrect_answer": "The Marauder's Map"
+  },
+  {
+    "question_id": 153,
+    "question": "What is the full name of Voldemort?",
+    "correct_answer": "Tom Marvolo Riddle",
+    "incorrect_answer": "Salazar Slytherin"
+  },
+  {
+    "question_id": 154,
+    "question": "What spell is used to produce a full-body bind?",
+    "correct_answer": "Petrificus Totalus",
+    "incorrect_answer": "Stupefy"
+  },
+  {
+    "question_id": 155,
+    "question": "What is the name of the magical sport played on broomsticks?",
+    "correct_answer": "Quidditch",
+    "incorrect_answer": "Wizengamot"
+  },
+  {
+    "question_id": 156,
+    "question": "What is the name of the werewolf professor at Hogwarts?",
+    "correct_answer": "Remus Lupin",
+    "incorrect_answer": "Sirius Black"
+  },
+  {
+    "question_id": 157,
+    "question": "What is the name of the house at Hogwarts known for bravery?",
+    "correct_answer": "Gryffindor",
+    "incorrect_answer": "Hufflepuff"
+  },
+  {
+    "question_id": 158,
+    "question": "What is the incantation to create a shield charm?",
+    "correct_answer": "Protego",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 159,
+    "question": "Who wrote 'A History of Magic'?",
+    "correct_answer": "Bathilda Bagshot",
+    "incorrect_answer": "Gilderoy Lockhart"
+  },
+  {
+    "question_id": 160,
+    "question": "What is the name of the secret tunnel under the Whomping Willow?",
+    "correct_answer": "The Shrieking Shack",
+    "incorrect_answer": "The Chamber of Secrets"
+  },
+  {
+    "question_id": 161,
+    "question": "What magical creature is Aragog?",
+    "correct_answer": "Acromantula",
+    "incorrect_answer": "Thestral"
+  },
+  {
+    "question_id": 162,
+    "question": "What spell is used to summon the Dark Mark?",
+    "correct_answer": "Morsmordre",
+    "incorrect_answer": "Crucio"
+  },
+  {
+    "question_id": 163,
+    "question": "What is the name of the potion that grants good luck?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Amortentia"
+  },
+  {
+    "question_id": 164,
+    "question": "What is the magical blood status of Hermione Granger?",
+    "correct_answer": "Muggle-born",
+    "incorrect_answer": "Half-blood"
+  },
+  {
+    "question_id": 165,
+    "question": "What spell is used to create light?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 166,
+    "question": "Who is the author of 'The Tales of Beedle the Bard'?",
+    "correct_answer": "Beedle the Bard",
+    "incorrect_answer": "Bathilda Bagshot"
+  },
+  {
+    "question_id": 167,
+    "question": "What is the name of the goblin who helps Harry, Ron, and Hermione break into Gringotts?",
+    "correct_answer": "Griphook",
+    "incorrect_answer": "Ragnok"
+  },
+  {
+    "question_id": 168,
+    "question": "What is the name of the charm that reveals human presence?",
+    "correct_answer": "Homenum Revelio",
+    "incorrect_answer": "Muffliato"
+  },
+  {
+    "question_id": 169,
+    "question": "What magical device is used to conceal someone's location?",
+    "correct_answer": "Fidelius Charm",
+    "incorrect_answer": "Disillusionment Charm"
+  },
+  {
+    "question_id": 170,
+    "question": "What is the name of Harry's aunt?",
+    "correct_answer": "Petunia Dursley",
+    "incorrect_answer": "Marge Dursley"
+  },
+  {
+    "question_id": 171,
+    "question": "What is the name of Voldemort's snake?",
+    "correct_answer": "Nagini",
+    "incorrect_answer": "Aragog"
+  },
+  {
+    "question_id": 172,
+    "question": "What is the name of the village near Hogwarts?",
+    "correct_answer": "Hogsmeade",
+    "incorrect_answer": "Godric's Hollow"
+  },
+  {
+    "question_id": 173,
+    "question": "Who teaches flying lessons at Hogwarts?",
+    "correct_answer": "Madam Hooch",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 174,
+    "question": "What potion induces intense love or obsession?",
+    "correct_answer": "Amortentia",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 175,
+    "question": "What is the name of Sirius Black's animagus form?",
+    "correct_answer": "A large black dog",
+    "incorrect_answer": "A werewolf"
+  },
+  {
+    "question_id": 176,
+    "question": "Who is the head of Ravenclaw house?",
+    "correct_answer": "Professor Flitwick",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 177,
+    "question": "What is the name of the creature that pulls the carriages to Hogwarts?",
+    "correct_answer": "Thestrals",
+    "incorrect_answer": "Hippogriffs"
+  },
+  {
+    "question_id": 178,
+    "question": "What is the name of the wand shop in Diagon Alley?",
+    "correct_answer": "Ollivanders",
+    "incorrect_answer": "Borgin and Burkes"
+  },
+  {
+    "question_id": 179,
+    "question": "What is the name of the magical item that destroys Horcruxes with venom?",
+    "correct_answer": "Basilisk fang",
+    "incorrect_answer": "Elder Wand"
+  },
+  {
+    "question_id": 180,
+    "question": "What is the name of the charm used to make something unbreakable?",
+    "correct_answer": "Unbreakable Charm",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 181,
+    "question": "What is the name of the tree that hides the entrance to the Shrieking Shack?",
+    "correct_answer": "Whomping Willow",
+    "incorrect_answer": "Giant Sequoia"
+  },
+  {
+    "question_id": 182,
+    "question": "Who is the captain of the Gryffindor Quidditch team in Harry's first year?",
+    "correct_answer": "Oliver Wood",
+    "incorrect_answer": "Angelina Johnson"
+  },
+  {
+    "question_id": 183,
+    "question": "What is the name of the charm used to keep things waterproof?",
+    "correct_answer": "Impervius Charm",
+    "incorrect_answer": "Muffliato"
+  },
+  {
+    "question_id": 184,
+    "question": "What is the name of the charm used to silence a person?",
+    "correct_answer": "Silencio",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 185,
+    "question": "What is the name of the magical newspaper in the wizarding world?",
+    "correct_answer": "The Daily Prophet",
+    "incorrect_answer": "The Quibbler"
+  },
+  {
+    "question_id": 186,
+    "question": "What is the name of the shop where Fred and George sell their joke products?",
+    "correct_answer": "Weasleys' Wizard Wheezes",
+    "incorrect_answer": "Zonko's Joke Shop"
+  },
+  {
+    "question_id": 187,
+    "question": "Who teaches Care of Magical Creatures before Hagrid?",
+    "correct_answer": "Professor Kettleburn",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 188,
+    "question": "What is the name of the magical bus for stranded witches and wizards?",
+    "correct_answer": "The Knight Bus",
+    "incorrect_answer": "The Hogwarts Express"
+  },
+  {
+    "question_id": 189,
+    "question": "What is the name of the charm that changes the appearance of an object?",
+    "correct_answer": "Transfiguration",
+    "incorrect_answer": "Obliviate"
+  },
+  {
+    "question_id": 190,
+    "question": "What is the name of the goblin who manages Gringotts during Harry's time?",
+    "correct_answer": "Griphook",
+    "incorrect_answer": "Bogrod"
+  },
+  {
+    "question_id": 191,
+    "question": "Who is the headmistress of Beauxbatons Academy of Magic?",
+    "correct_answer": "Madame Maxime",
+    "incorrect_answer": "Madame Pomfrey"
+  },
+  {
+    "question_id": 192,
+    "question": "What is the name of the magical artifact that stores pieces of Voldemort's soul?",
+    "correct_answer": "Horcrux",
+    "incorrect_answer": "Hallows"
+  },
+  {
+    "question_id": 193,
+    "question": "What is the name of the charm used to amplify a voice?",
+    "correct_answer": "Sonorus",
+    "incorrect_answer": "Silencio"
+  },
+  {
+    "question_id": 194,
+    "question": "What is the name of the room at Hogwarts that appears when needed?",
+    "correct_answer": "Room of Requirement",
+    "incorrect_answer": "Chamber of Secrets"
+  },
+  {
+    "question_id": 195,
+    "question": "Who is the head of Slytherin house during Harry's time?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Horace Slughorn"
+  },
+  {
+    "question_id": 196,
+    "question": "What is the name of the bank in the wizarding world?",
+    "correct_answer": "Gringotts",
+    "incorrect_answer": "Ollivanders"
+  },
+  {
+    "question_id": 197,
+    "question": "Who was Harry's first Defense Against the Dark Arts teacher?",
+    "correct_answer": "Professor Quirrell",
+    "incorrect_answer": "Professor Lockhart"
+  },
+  {
+    "question_id": 198,
+    "question": "What is the name of the charm used to summon objects?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 199,
+    "question": "What is the name of the potion that induces death-like sleep?",
+    "correct_answer": "Draught of Living Death",
+    "incorrect_answer": "Polyjuice Potion"
+  },
+  {
+    "question_id": 200,
+    "question": "What is the name of the hippogriff that Harry rides?",
+    "correct_answer": "Buckbeak",
+    "incorrect_answer": "Norbert"
+  },
+  {
+    "question_id": 201,
+    "question": "Who is the head of Hufflepuff house?",
+    "correct_answer": "Professor Sprout",
+    "incorrect_answer": "Professor McGonagall"
+  },
+  {
+    "question_id": 202,
+    "question": "What is the name of the Weasley family's owl?",
+    "correct_answer": "Errol",
+    "incorrect_answer": "Pigwidgeon"
+  },
+  {
+    "question_id": 203,
+    "question": "What magical ability allows wizards to transform into animals?",
+    "correct_answer": "Animagus",
+    "incorrect_answer": "Parseltongue"
+  },
+  {
+    "question_id": 204,
+    "question": "What is the name of the magical object used to store memories?",
+    "correct_answer": "Pensieve",
+    "incorrect_answer": "Time-Turner"
+  },
+  {
+    "question_id": 205,
+    "question": "Who created the Sorcerer’s Stone?",
+    "correct_answer": "Nicolas Flamel",
+    "incorrect_answer": "Albus Dumbledore"
+  },
+  {
+    "question_id": 206,
+    "question": "What is the name of the shop where Harry buys his school supplies?",
+    "correct_answer": "Diagon Alley",
+    "incorrect_answer": "Hogsmeade"
+  },
+  {
+    "question_id": 207,
+    "question": "What is the incantation for the spell that creates light?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 208,
+    "question": "Who was the first student to be petrified in the Chamber of Secrets incident?",
+    "correct_answer": "Mrs. Norris",
+    "incorrect_answer": "Colin Creevey"
+  },
+  {
+    "question_id": 209,
+    "question": "What type of dragon guards the Lestrange vault at Gringotts?",
+    "correct_answer": "Ukrainian Ironbelly",
+    "incorrect_answer": "Hungarian Horntail"
+  },
+  {
+    "question_id": 210,
+    "question": "What is the name of the magical map that shows everyone's location at Hogwarts?",
+    "correct_answer": "Marauder's Map",
+    "incorrect_answer": "The Daily Prophet"
+  },
+  {
+    "question_id": 211,
+    "question": "What magical creature is a house-elf most similar to?",
+    "correct_answer": "Goblin",
+    "incorrect_answer": "Centaur"
+  },
+  {
+    "question_id": 212,
+    "question": "Who is the editor of 'The Quibbler'?",
+    "correct_answer": "Xenophilius Lovegood",
+    "incorrect_answer": "Rita Skeeter"
+  },
+  {
+    "question_id": 213,
+    "question": "What charm is used to make objects fly?",
+    "correct_answer": "Wingardium Leviosa",
+    "incorrect_answer": "Accio"
+  },
+  {
+    "question_id": 214,
+    "question": "What is the name of the school Fleur Delacour attended?",
+    "correct_answer": "Beauxbatons Academy of Magic",
+    "incorrect_answer": "Durmstrang Institute"
+  },
+  {
+    "question_id": 215,
+    "question": "What is the name of the spell used to open locked doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reducto"
+  },
+  {
+    "question_id": 216,
+    "question": "What is the name of the potion that grants the drinker temporary luck?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Amortentia"
+  },
+  {
+    "question_id": 217,
+    "question": "What does the Sorting Hat consider before placing a student in a house?",
+    "correct_answer": "Their personality and values",
+    "incorrect_answer": "Their magical abilities"
+  },
+  {
+    "question_id": 218,
+    "question": "Who becomes the Minister of Magic after Cornelius Fudge?",
+    "correct_answer": "Rufus Scrimgeour",
+    "incorrect_answer": "Kingsley Shacklebolt"
+  },
+  {
+    "question_id": 219,
+    "question": "What is the name of Voldemort's mother?",
+    "correct_answer": "Merope Gaunt",
+    "incorrect_answer": "Bellatrix Lestrange"
+  },
+  {
+    "question_id": 220,
+    "question": "What is the name of the magical plant that helps breathe underwater?",
+    "correct_answer": "Gillyweed",
+    "incorrect_answer": "Mandrake"
+  },
+  {
+    "question_id": 221,
+    "question": "Who teaches Astronomy at Hogwarts?",
+    "correct_answer": "Professor Sinistra",
+    "incorrect_answer": "Professor Trelawney"
+  },
+  {
+    "question_id": 222,
+    "question": "What is the name of the magical object that shows a person's deepest desires?",
+    "correct_answer": "The Mirror of Erised",
+    "incorrect_answer": "The Pensieve"
+  },
+  {
+    "question_id": 223,
+    "question": "What is the name of the group of dark creatures that guard Azkaban?",
+    "correct_answer": "Dementors",
+    "incorrect_answer": "Inferi"
+  },
+  {
+    "question_id": 224,
+    "question": "What is the name of Harry Potter's godfather?",
+    "correct_answer": "Sirius Black",
+    "incorrect_answer": "Remus Lupin"
+  },
+  {
+    "question_id": 225,
+    "question": "Who is the ghost of Gryffindor Tower?",
+    "correct_answer": "Nearly Headless Nick",
+    "incorrect_answer": "The Grey Lady"
+  },
+  {
+    "question_id": 226,
+    "question": "What is the name of the charm that reveals invisible ink or hidden messages?",
+    "correct_answer": "Aparecium",
+    "incorrect_answer": "Lumos"
+  },
+  {
+    "question_id": 227,
+    "question": "Who is the captain of the Slytherin Quidditch team during Harry's early years?",
+    "correct_answer": "Marcus Flint",
+    "incorrect_answer": "Draco Malfoy"
+  },
+  {
+    "question_id": 228,
+    "question": "What spell is used to repel Dementors?",
+    "correct_answer": "Expecto Patronum",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 229,
+    "question": "What is the core of Bellatrix Lestrange's wand?",
+    "correct_answer": "Dragon heartstring",
+    "incorrect_answer": "Phoenix feather"
+  },
+  {
+    "question_id": 230,
+    "question": "What magical creature can only be seen by those who have witnessed death?",
+    "correct_answer": "Thestrals",
+    "incorrect_answer": "Hippogriffs"
+  },
+  {
+    "question_id": 231,
+    "question": "What is the name of the eldest of the Weasley siblings?",
+    "correct_answer": "Bill Weasley",
+    "incorrect_answer": "Percy Weasley"
+  },
+  {
+    "question_id": 232,
+    "question": "Who is the ghost that haunts the girls' bathroom at Hogwarts?",
+    "correct_answer": "Moaning Myrtle",
+    "incorrect_answer": "The Grey Lady"
+  },
+  {
+    "question_id": 233,
+    "question": "What is the name of the magical train station at King's Cross?",
+    "correct_answer": "Platform 9¾",
+    "incorrect_answer": "Platform 10"
+  },
+  {
+    "question_id": 234,
+    "question": "What is the name of the centaur who teaches Divination at Hogwarts?",
+    "correct_answer": "Firenze",
+    "incorrect_answer": "Bane"
+  },
+  {
+    "question_id": 235,
+    "question": "Who is the headmistress of Hogwarts during the events of the Battle of Hogwarts?",
+    "correct_answer": "Minerva McGonagall",
+    "incorrect_answer": "Severus Snape"
+  },
+  {
+    "question_id": 236,
+    "question": "What is the name of the three-headed dog that guards the Sorcerer’s Stone?",
+    "correct_answer": "Fluffy",
+    "incorrect_answer": "Fang"
+  },
+  {
+    "question_id": 237,
+    "question": "What is the name of the potion that can transform someone into another person?",
+    "correct_answer": "Polyjuice Potion",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 238,
+    "question": "Who was the founder of Hufflepuff house?",
+    "correct_answer": "Helga Hufflepuff",
+    "incorrect_answer": "Rowena Ravenclaw"
+  },
+  {
+    "question_id": 239,
+    "question": "What is the name of the magical government in the UK?",
+    "correct_answer": "The Ministry of Magic",
+    "incorrect_answer": "The Wizengamot"
+  },
+  {
+    "question_id": 240,
+    "question": "What is the name of the charm used to silence a person?",
+    "correct_answer": "Silencio",
+    "incorrect_answer": "Obliviate"
+  },
+  {
+    "question_id": 241,
+    "question": "What is the name of Harry’s cousin?",
+    "correct_answer": "Dudley Dursley",
+    "incorrect_answer": "Vernon Dursley"
+  },
+  {
+    "question_id": 242,
+    "question": "Who gave Harry his Firebolt broomstick?",
+    "correct_answer": "Sirius Black",
+    "incorrect_answer": "Professor McGonagall"
+  },
+  {
+    "question_id": 243,
+    "question": "What is the name of the charm used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reparo"
+  },
+  {
+    "question_id": 244,
+    "question": "Who is the keeper of keys and grounds at Hogwarts?",
+    "correct_answer": "Rubeus Hagrid",
+    "incorrect_answer": "Argus Filch"
+  },
+  {
+    "question_id": 245,
+    "question": "What is the name of the wizarding pub in Hogsmeade?",
+    "correct_answer": "The Three Broomsticks",
+    "incorrect_answer": "The Leaky Cauldron"
+  },
+  {
+    "question_id": 246,
+    "question": "What spell is used to disarm an opponent?",
+    "correct_answer": "Expelliarmus",
+    "incorrect_answer": "Stupefy"
+  },
+  {
+    "question_id": 247,
+    "question": "What is the name of the magical object used to store and review memories?",
+    "correct_answer": "Pensieve",
+    "incorrect_answer": "Mirror of Erised"
+  },
+  {
+    "question_id": 248,
+    "question": "What is the name of the house ghost of Slytherin?",
+    "correct_answer": "The Bloody Baron",
+    "incorrect_answer": "Nearly Headless Nick"
+  },
+  {
+    "question_id": 249,
+    "question": "What magical object turns off lights?",
+    "correct_answer": "Deluminator",
+    "incorrect_answer": "Time-Turner"
+  },
+  {
+    "question_id": 250,
+    "question": "What is the name of the book Hermione uses to brew Polyjuice Potion?",
+    "correct_answer": "Moste Potente Potions",
+    "incorrect_answer": "Advanced Potion-Making"
+  },
+  {
+    "question_id": 251,
+    "question": "Who was the founder of Gryffindor house?",
+    "correct_answer": "Godric Gryffindor",
+    "incorrect_answer": "Helga Hufflepuff"
+  },
+  {
+    "question_id": 252,
+    "question": "What is the name of the Weasley family's home?",
+    "correct_answer": "The Burrow",
+    "incorrect_answer": "Shell Cottage"
+  },
+  {
+    "question_id": 253,
+    "question": "What is the name of the wizarding bank in Diagon Alley?",
+    "correct_answer": "Gringotts",
+    "incorrect_answer": "The Leaky Cauldron"
+  },
+  {
+    "question_id": 254,
+    "question": "What is the name of the pub where Hagrid takes Harry after they meet?",
+    "correct_answer": "The Leaky Cauldron",
+    "incorrect_answer": "The Three Broomsticks"
+  },
+  {
+    "question_id": 255,
+    "question": "What is the name of Harry’s first pet owl?",
+    "correct_answer": "Hedwig",
+    "incorrect_answer": "Errol"
+  },
+  {
+    "question_id": 256,
+    "question": "What position does Harry play on the Gryffindor Quidditch team?",
+    "correct_answer": "Seeker",
+    "incorrect_answer": "Chaser"
+  },
+  {
+    "question_id": 257,
+    "question": "What is the name of the charm used to summon objects?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Wingardium Leviosa"
+  },
+  {
+    "question_id": 258,
+    "question": "Who is the Potions Master at Hogwarts during Harry's first year?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Horace Slughorn"
+  },
+  {
+    "question_id": 259,
+    "question": "What is the name of the magical sport played on broomsticks?",
+    "correct_answer": "Quidditch",
+    "incorrect_answer": "Gobstones"
+  },
+  {
+    "question_id": 260,
+    "question": "What is the name of the magical mirror that shows a person's deepest desires?",
+    "correct_answer": "The Mirror of Erised",
+    "incorrect_answer": "The Pensieve"
+  },
+  {
+    "question_id": 261,
+    "question": "What is the name of Dumbledore's phoenix?",
+    "correct_answer": "Fawkes",
+    "incorrect_answer": "Buckbeak"
+  },
+  {
+    "question_id": 262,
+    "question": "What is the name of the magical map that shows everyone at Hogwarts?",
+    "correct_answer": "The Marauder's Map",
+    "incorrect_answer": "The Daily Prophet"
+  },
+  {
+    "question_id": 263,
+    "question": "What is the name of the Weasley twins' joke shop?",
+    "correct_answer": "Weasleys' Wizard Wheezes",
+    "incorrect_answer": "Zonko's Joke Shop"
+  },
+  {
+    "question_id": 264,
+    "question": "Who becomes the headmaster of Hogwarts after Dumbledore's death?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Minerva McGonagall"
+  },
+  {
+    "question_id": 265,
+    "question": "What is the name of the charm used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reparo"
+  },
+  {
+    "question_id": 266,
+    "question": "What is the name of the dragon that guards the Lestrange vault?",
+    "correct_answer": "Ukrainian Ironbelly",
+    "incorrect_answer": "Hungarian Horntail"
+  },
+  {
+    "question_id": 267,
+    "question": "What is the name of the school Viktor Krum attended?",
+    "correct_answer": "Durmstrang Institute",
+    "incorrect_answer": "Beauxbatons Academy"
+  },
+  {
+    "question_id": 268,
+    "question": "Who was the founder of Ravenclaw house?",
+    "correct_answer": "Rowena Ravenclaw",
+    "incorrect_answer": "Helga Hufflepuff"
+  },
+  {
+    "question_id": 269,
+    "question": "What is the core of Hermione Granger's wand?",
+    "correct_answer": "Dragon heartstring",
+    "incorrect_answer": "Phoenix feather"
+  },
+  {
+    "question_id": 270,
+    "question": "What potion is known as 'Liquid Luck'?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Polyjuice Potion"
+  },
+  {
+    "question_id": 271,
+    "question": "What spell is used to produce water?",
+    "correct_answer": "Aguamenti",
+    "incorrect_answer": "Incendio"
+  },
+  {
+    "question_id": 272,
+    "question": "Who was the original owner of the Elder Wand?",
+    "correct_answer": "Antioch Peverell",
+    "incorrect_answer": "Godric Gryffindor"
+  },
+  {
+    "question_id": 273,
+    "question": "What is the name of the village where Lily and James Potter lived?",
+    "correct_answer": "Godric's Hollow",
+    "incorrect_answer": "Little Whinging"
+  },
+  {
+    "question_id": 274,
+    "question": "What is the name of the secret group Harry forms to teach Defense Against the Dark Arts?",
+    "correct_answer": "Dumbledore's Army",
+    "incorrect_answer": "The Order of the Phoenix"
+  },
+  {
+    "question_id": 275,
+    "question": "What does a Boggart turn into?",
+    "correct_answer": "A person's worst fear",
+    "incorrect_answer": "A random monster"
+  },
+  {
+    "question_id": 276,
+    "question": "What magical creature is Hagrid’s pet Aragog?",
+    "correct_answer": "Acromantula",
+    "incorrect_answer": "Basilisk"
+  },
+  {
+    "question_id": 277,
+    "question": "What is the name of the Weasley family's ghoul?",
+    "correct_answer": "The Weasley Ghoul",
+    "incorrect_answer": "The Weasley Poltergeist"
+  },
+  {
+    "question_id": 278,
+    "question": "Who is the head of Gryffindor house during Harry’s time at Hogwarts?",
+    "correct_answer": "Professor McGonagall",
+    "incorrect_answer": "Professor Flitwick"
+  },
+  {
+    "question_id": 279,
+    "question": "What is the name of the charm that creates a protective shield?",
+    "correct_answer": "Protego",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 280,
+    "question": "What is the name of the love potion that causes obsession?",
+    "correct_answer": "Amortentia",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 281,
+    "question": "What is the name of the train that takes students to Hogwarts?",
+    "correct_answer": "Hogwarts Express",
+    "incorrect_answer": "Knight Bus"
+  },
+  {
+    "question_id": 282,
+    "question": "What is the name of Voldemort’s snake companion?",
+    "correct_answer": "Nagini",
+    "incorrect_answer": "Aragog"
+  },
+  {
+    "question_id": 283,
+    "question": "What is the name of the centaur who helps Harry in the Forbidden Forest?",
+    "correct_answer": "Firenze",
+    "incorrect_answer": "Bane"
+  },
+  {
+    "question_id": 284,
+    "question": "Who is the mother of Draco Malfoy?",
+    "correct_answer": "Narcissa Malfoy",
+    "incorrect_answer": "Bellatrix Lestrange"
+  },
+  {
+    "question_id": 285,
+    "question": "What charm is used to erase specific memories?",
+    "correct_answer": "Obliviate",
+    "incorrect_answer": "Silencio"
+  },
+  {
+    "question_id": 286,
+    "question": "What position does Ron Weasley play on the Gryffindor Quidditch team?",
+    "correct_answer": "Keeper",
+    "incorrect_answer": "Chaser"
+  },
+  {
+    "question_id": 287,
+    "question": "What magical creature is known for guarding treasure?",
+    "correct_answer": "Dragon",
+    "incorrect_answer": "Thestral"
+  },
+  {
+    "question_id": 288,
+    "question": "What is the name of the Hogwarts caretaker?",
+    "correct_answer": "Argus Filch",
+    "incorrect_answer": "Rubeus Hagrid"
+  },
+  {
+    "question_id": 289,
+    "question": "What spell is used to repair broken objects?",
+    "correct_answer": "Reparo",
+    "incorrect_answer": "Alohomora"
+  },
+  {
+    "question_id": 290,
+    "question": "Who is the Defense Against the Dark Arts professor in Harry's third year?",
+    "correct_answer": "Remus Lupin",
+    "incorrect_answer": "Gilderoy Lockhart"
+  },
+  {
+    "question_id": 291,
+    "question": "What is the name of the Weasley's owl?",
+    "correct_answer": "Errol",
+    "incorrect_answer": "Pigwidgeon"
+  },
+  {
+    "question_id": 292,
+    "question": "What potion allows a person to assume the form of someone else?",
+    "correct_answer": "Polyjuice Potion",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 293,
+    "question": "What magical skill allows Harry to speak to snakes?",
+    "correct_answer": "Parseltongue",
+    "incorrect_answer": "Legilimency"
+  },
+  {
+    "question_id": 294,
+    "question": "What is the name of the giant spider Hagrid raised?",
+    "correct_answer": "Aragog",
+    "incorrect_answer": "Norbert"
+  },
+  {
+    "question_id": 295,
+    "question": "What is the name of the Deathly Hallow that makes the user invisible?",
+    "correct_answer": "Invisibility Cloak",
+    "incorrect_answer": "Resurrection Stone"
+  },
+  {
+    "question_id": 296,
+    "question": "Who is the ghost of Ravenclaw House?",
+    "correct_answer": "The Grey Lady",
+    "incorrect_answer": "The Bloody Baron"
+  },
+  {
+    "question_id": 297,
+    "question": "What magical object is used to store fragments of Voldemort's soul?",
+    "correct_answer": "Horcrux",
+    "incorrect_answer": "Hallows"
+  },
+  {
+    "question_id": 298,
+    "question": "Who is the half-giant who serves as the groundskeeper at Hogwarts?",
+    "correct_answer": "Rubeus Hagrid",
+    "incorrect_answer": "Argus Filch"
+  },
+  {
+    "question_id": 299,
+    "question": "What spell is used to produce fire?",
+    "correct_answer": "Incendio",
+    "incorrect_answer": "Aguamenti"
+  },
+  {
+    "question_id": 300,
+    "question": "What is the name of the potion used to heal injuries?",
+    "correct_answer": "Skele-Gro",
+    "incorrect_answer": "Draught of Peace"
+  },
+  {
+    "question_id": 301,
+    "question": "What is the name of the family who adopts Harry as a baby?",
+    "correct_answer": "The Dursleys",
+    "incorrect_answer": "The Potters"
+  },
+  {
+    "question_id": 302,
+    "question": "Who is the head of Slytherin House during Harry’s first years at Hogwarts?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Horace Slughorn"
+  },
+  {
+    "question_id": 303,
+    "question": "What magical device is used to travel back in time?",
+    "correct_answer": "Time-Turner",
+    "incorrect_answer": "Deluminator"
+  },
+  {
+    "question_id": 304,
+    "question": "What is the name of the plant that helps petrified victims recover?",
+    "correct_answer": "Mandrake",
+    "incorrect_answer": "Gillyweed"
+  },
+  {
+    "question_id": 305,
+    "question": "Who is the editor of 'The Daily Prophet'?",
+    "correct_answer": "Barnabas Cuffe",
+    "incorrect_answer": "Xenophilius Lovegood"
+  },
+  {
+    "question_id": 306,
+    "question": "What is the name of the potion used to force someone to tell the truth?",
+    "correct_answer": "Veritaserum",
+    "incorrect_answer": "Polyjuice Potion"
+  },
+  {
+    "question_id": 307,
+    "question": "What is the name of the three-headed dog guarding the Sorcerer’s Stone?",
+    "correct_answer": "Fluffy",
+    "incorrect_answer": "Fang"
+  },
+  {
+    "question_id": 308,
+    "question": "What is the incantation to summon a Patronus?",
+    "correct_answer": "Expecto Patronum",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 309,
+    "question": "What is the name of the curse that causes immense pain?",
+    "correct_answer": "Cruciatus Curse",
+    "incorrect_answer": "Imperius Curse"
+  },
+  {
+    "question_id": 310,
+    "question": "What is the name of the magical map that reveals everyone in Hogwarts?",
+    "correct_answer": "Marauder's Map",
+    "incorrect_answer": "The Daily Prophet"
+  },
+  {
+    "question_id": 311,
+    "question": "What is the name of the group formed to fight against Voldemort?",
+    "correct_answer": "The Order of the Phoenix",
+    "incorrect_answer": "Dumbledore's Army"
+  },
+  {
+    "question_id": 312,
+    "question": "What is the name of the snake killed by Neville Longbottom?",
+    "correct_answer": "Nagini",
+    "incorrect_answer": "Basilisk"
+  },
+  {
+    "question_id": 313,
+    "question": "Who was the Defense Against the Dark Arts professor in Harry’s second year?",
+    "correct_answer": "Gilderoy Lockhart",
+    "incorrect_answer": "Remus Lupin"
+  },
+  {
+    "question_id": 314,
+    "question": "What is the name of Harry’s broomstick in his third year?",
+    "correct_answer": "Firebolt",
+    "incorrect_answer": "Nimbus 2000"
+  },
+  {
+    "question_id": 315,
+    "question": "What is the name of the magical object that holds the Resurrection Stone?",
+    "correct_answer": "The Gaunt Ring",
+    "incorrect_answer": "The Elder Wand"
+  },
+  {
+    "question_id": 316,
+    "question": "Who was the founder of Slytherin House?",
+    "correct_answer": "Salazar Slytherin",
+    "incorrect_answer": "Godric Gryffindor"
+  },
+  {
+    "question_id": 317,
+    "question": "What is the incantation for the spell used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reparo"
+  },
+  {
+    "question_id": 318,
+    "question": "What type of wood is Harry Potter’s wand made of?",
+    "correct_answer": "Holly",
+    "incorrect_answer": "Yew"
+  },
+  {
+    "question_id": 319,
+    "question": "What is the name of the elf who served the Malfoy family?",
+    "correct_answer": "Dobby",
+    "incorrect_answer": "Kreacher"
+  },
+  {
+    "question_id": 320,
+    "question": "What spell is used to repel water?",
+    "correct_answer": "Impervius",
+    "incorrect_answer": "Aguamenti"
+  },
+  {
+    "question_id": 321,
+    "question": "Who is the Half-Blood Prince?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Tom Riddle"
+  },
+  {
+    "question_id": 322,
+    "question": "What is the name of the potion that can heal bones?",
+    "correct_answer": "Skele-Gro",
+    "incorrect_answer": "Draught of Living Death"
+  },
+  {
+    "question_id": 323,
+    "question": "Who is the ghost of Hufflepuff House?",
+    "correct_answer": "The Fat Friar",
+    "incorrect_answer": "Nearly Headless Nick"
+  },
+  {
+    "question_id": 324,
+    "question": "What is the name of the plant used to breathe underwater?",
+    "correct_answer": "Gillyweed",
+    "incorrect_answer": "Mandrake"
+  },
+  {
+    "question_id": 325,
+    "question": "Who becomes the Minister of Magic after Voldemort’s defeat?",
+    "correct_answer": "Kingsley Shacklebolt",
+    "incorrect_answer": "Rufus Scrimgeour"
+  },
+  {
+    "question_id": 326,
+    "question": "Who is the author of 'Magical Me'?",
+    "correct_answer": "Gilderoy Lockhart",
+    "incorrect_answer": "Rita Skeeter"
+  },
+  {
+    "question_id": 327,
+    "question": "What is the name of the charm used to amplify sound?",
+    "correct_answer": "Sonorus",
+    "incorrect_answer": "Silencio"
+  },
+  {
+    "question_id": 328,
+    "question": "What is the name of the magical device that turns off lights?",
+    "correct_answer": "Deluminator",
+    "incorrect_answer": "Pensieve"
+  },
+  {
+    "question_id": 329,
+    "question": "Who is the ghost that haunts the girls' bathroom?",
+    "correct_answer": "Moaning Myrtle",
+    "incorrect_answer": "The Grey Lady"
+  },
+  {
+    "question_id": 330,
+    "question": "What is the name of the Weasleys' joke shop in Diagon Alley?",
+    "correct_answer": "Weasleys' Wizard Wheezes",
+    "incorrect_answer": "Zonko's Joke Shop"
+  },
+  {
+    "question_id": 331,
+    "question": "Who is the editor of 'The Quibbler'?",
+    "correct_answer": "Xenophilius Lovegood",
+    "incorrect_answer": "Barnabas Cuffe"
+  },
+  {
+    "question_id": 332,
+    "question": "What is the name of the magical clock in the Weasley household?",
+    "correct_answer": "The Weasley Family Clock",
+    "incorrect_answer": "The Time-Turner"
+  },
+  {
+    "question_id": 333,
+    "question": "What does the spell 'Stupefy' do?",
+    "correct_answer": "Stuns the target",
+    "incorrect_answer": "Disarms the target"
+  },
+  {
+    "question_id": 334,
+    "question": "Who becomes the new Defense Against the Dark Arts professor in Harry's sixth year?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Horace Slughorn"
+  },
+  {
+    "question_id": 335,
+    "question": "What is the name of the potion that creates false memories?",
+    "correct_answer": "Confusing Concoction",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 336,
+    "question": "What is the name of the creature that lives in the Black Lake at Hogwarts?",
+    "correct_answer": "Giant Squid",
+    "incorrect_answer": "Basilisk"
+  },
+  {
+    "question_id": 337,
+    "question": "What magical creature pulls the carriages to Hogwarts?",
+    "correct_answer": "Thestrals",
+    "incorrect_answer": "Hippogriffs"
+  },
+  {
+    "question_id": 338,
+    "question": "What spell is used to produce a beam of light from the wand tip?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 339,
+    "question": "What is the name of the goblin who helps Harry, Ron, and Hermione at Gringotts?",
+    "correct_answer": "Griphook",
+    "incorrect_answer": "Bogrod"
+  },
+  {
+    "question_id": 340,
+    "question": "What is the core of Harry Potter's wand?",
+    "correct_answer": "Phoenix feather",
+    "incorrect_answer": "Dragon heartstring"
+  },
+  {
+    "question_id": 341,
+    "question": "What is the name of the potion that induces calm and relieves anxiety?",
+    "correct_answer": "Draught of Peace",
+    "incorrect_answer": "Polyjuice Potion"
+  },
+  {
+    "question_id": 342,
+    "question": "What is the name of the book containing information about magical creatures?",
+    "correct_answer": "Fantastic Beasts and Where to Find Them",
+    "incorrect_answer": "A History of Magic"
+  },
+  {
+    "question_id": 343,
+    "question": "What is the name of Hagrid’s boarhound?",
+    "correct_answer": "Fang",
+    "incorrect_answer": "Fluffy"
+  },
+  {
+    "question_id": 344,
+    "question": "Who is the headmaster of Durmstrang during the Triwizard Tournament?",
+    "correct_answer": "Igor Karkaroff",
+    "incorrect_answer": "Madame Maxime"
+  },
+  {
+    "question_id": 345,
+    "question": "What is the name of the wizarding prison guarded by Dementors?",
+    "correct_answer": "Azkaban",
+    "incorrect_answer": "Nurmengard"
+  },
+  {
+    "question_id": 346,
+    "question": "What spell is used to make an object fly?",
+    "correct_answer": "Wingardium Leviosa",
+    "incorrect_answer": "Accio"
+  },
+  {
+    "question_id": 347,
+    "question": "What is the name of the ghost who haunts the Slytherin common room?",
+    "correct_answer": "The Bloody Baron",
+    "incorrect_answer": "Nearly Headless Nick"
+  },
+  {
+    "question_id": 348,
+    "question": "What magical plant screeches when uprooted?",
+    "correct_answer": "Mandrake",
+    "incorrect_answer": "Devil's Snare"
+  },
+  {
+    "question_id": 349,
+    "question": "What is the name of the magical object that grants the user invisibility?",
+    "correct_answer": "Invisibility Cloak",
+    "incorrect_answer": "Resurrection Stone"
+  },
+  {
+    "question_id": 350,
+    "question": "What spell is used to produce a shield charm?",
+    "correct_answer": "Protego",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 351,
+    "question": "What is the name of the village near Hogwarts?",
+    "correct_answer": "Hogsmeade",
+    "incorrect_answer": "Godric's Hollow"
+  },
+  {
+    "question_id": 352,
+    "question": "Who teaches Divination alongside Professor Trelawney?",
+    "correct_answer": "Firenze",
+    "incorrect_answer": "Madam Hooch"
+  },
+  {
+    "question_id": 353,
+    "question": "What magical object shows the deepest desires of one’s heart?",
+    "correct_answer": "The Mirror of Erised",
+    "incorrect_answer": "The Pensieve"
+  },
+  {
+    "question_id": 354,
+    "question": "Who is the ghost of Hufflepuff house?",
+    "correct_answer": "The Fat Friar",
+    "incorrect_answer": "The Grey Lady"
+  },
+  {
+    "question_id": 355,
+    "question": "What is the name of the goblin who takes Harry to his vault for the first time?",
+    "correct_answer": "Griphook",
+    "incorrect_answer": "Bogrod"
+  },
+  {
+    "question_id": 356,
+    "question": "What is the name of the potion that regrows bones?",
+    "correct_answer": "Skele-Gro",
+    "incorrect_answer": "Draught of Living Death"
+  },
+  {
+    "question_id": 357,
+    "question": "What is the name of the train that takes students to Hogwarts?",
+    "correct_answer": "Hogwarts Express",
+    "incorrect_answer": "Knight Bus"
+  },
+  {
+    "question_id": 358,
+    "question": "Who killed Dobby the house-elf?",
+    "correct_answer": "Bellatrix Lestrange",
+    "incorrect_answer": "Lucius Malfoy"
+  },
+  {
+    "question_id": 359,
+    "question": "What magical ability allows wizards to communicate with snakes?",
+    "correct_answer": "Parseltongue",
+    "incorrect_answer": "Legilimency"
+  },
+  {
+    "question_id": 360,
+    "question": "What is the name of the half-giant who teaches at Hogwarts?",
+    "correct_answer": "Rubeus Hagrid",
+    "incorrect_answer": "Argus Filch"
+  },
+  {
+    "question_id": 361,
+    "question": "What spell is used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reparo"
+  },
+  {
+    "question_id": 362,
+    "question": "What is the name of the village where Harry’s parents lived?",
+    "correct_answer": "Godric's Hollow",
+    "incorrect_answer": "Little Whinging"
+  },
+  {
+    "question_id": 363,
+    "question": "What magical creature is Hagrid’s pet Buckbeak?",
+    "correct_answer": "Hippogriff",
+    "incorrect_answer": "Thestral"
+  },
+  {
+    "question_id": 364,
+    "question": "Who is the head of Ravenclaw house?",
+    "correct_answer": "Professor Flitwick",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 365,
+    "question": "What spell is used to create fire?",
+    "correct_answer": "Incendio",
+    "incorrect_answer": "Aguamenti"
+  },
+  {
+    "question_id": 366,
+    "question": "Who teaches flying lessons at Hogwarts?",
+    "correct_answer": "Madam Hooch",
+    "incorrect_answer": "Professor Trelawney"
+  },
+  {
+    "question_id": 367,
+    "question": "What is the name of the magical government in Britain?",
+    "correct_answer": "The Ministry of Magic",
+    "incorrect_answer": "The Wizengamot"
+  },
+  {
+    "question_id": 368,
+    "question": "What is the incantation for the spell that reveals the presence of humans?",
+    "correct_answer": "Homenum Revelio",
+    "incorrect_answer": "Aparecium"
+  },
+  {
+    "question_id": 369,
+    "question": "Who is the Gryffindor Quidditch captain in Harry's first year?",
+    "correct_answer": "Oliver Wood",
+    "incorrect_answer": "Angelina Johnson"
+  },
+  {
+    "question_id": 370,
+    "question": "What is the name of the Weasley family's house?",
+    "correct_answer": "The Burrow",
+    "incorrect_answer": "Shell Cottage"
+  },
+  {
+    "question_id": 371,
+    "question": "Who is the Defense Against the Dark Arts professor in Harry's fifth year?",
+    "correct_answer": "Dolores Umbridge",
+    "incorrect_answer": "Severus Snape"
+  },
+  {
+    "question_id": 372,
+    "question": "What is the name of the potion that gives the drinker good luck?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Amortentia"
+  },
+  {
+    "question_id": 373,
+    "question": "What magical object is used to destroy Horcruxes?",
+    "correct_answer": "Sword of Gryffindor",
+    "incorrect_answer": "Resurrection Stone"
+  },
+  {
+    "question_id": 374,
+    "question": "What is the name of the house-elf who works at Hogwarts?",
+    "correct_answer": "Kreacher",
+    "incorrect_answer": "Dobby"
+  },
+  {
+    "question_id": 375,
+    "question": "What is the name of the giant snake that lived in the Chamber of Secrets?",
+    "correct_answer": "Basilisk",
+    "incorrect_answer": "Nagini"
+  },
+  {
+    "question_id": 376,
+    "question": "Who was the founder of Hufflepuff house?",
+    "correct_answer": "Helga Hufflepuff",
+    "incorrect_answer": "Rowena Ravenclaw"
+  },
+  {
+    "question_id": 377,
+    "question": "What magical creature is featured in the Triwizard Tournament's lake task?",
+    "correct_answer": "Merpeople",
+    "incorrect_answer": "Acromantulas"
+  },
+  {
+    "question_id": 378,
+    "question": "What is the incantation to conjure a Patronus?",
+    "correct_answer": "Expecto Patronum",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 379,
+    "question": "Who is the headmistress of Beauxbatons Academy?",
+    "correct_answer": "Madame Maxime",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 380,
+    "question": "What is the name of the device that can turn back time?",
+    "correct_answer": "Time-Turner",
+    "incorrect_answer": "Deluminator"
+  },
+  {
+    "question_id": 381,
+    "question": "What spell is used to summon objects?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Alohomora"
+  },
+  {
+    "question_id": 382,
+    "question": "What is the name of the centaur who warns Harry in the Forbidden Forest?",
+    "correct_answer": "Firenze",
+    "incorrect_answer": "Bane"
+  },
+  {
+    "question_id": 383,
+    "question": "What is the name of the curse that controls the victim's actions?",
+    "correct_answer": "Imperius Curse",
+    "incorrect_answer": "Cruciatus Curse"
+  },
+  {
+    "question_id": 384,
+    "question": "Who created the Sorcerer’s Stone?",
+    "correct_answer": "Nicolas Flamel",
+    "incorrect_answer": "Albus Dumbledore"
+  },
+  {
+    "question_id": 385,
+    "question": "What is the name of the Weasley twins’ joke shop?",
+    "correct_answer": "Weasleys' Wizard Wheezes",
+    "incorrect_answer": "Zonko's Joke Shop"
+  },
+  {
+    "question_id": 386,
+    "question": "Who becomes the Minister of Magic after Voldemort's defeat?",
+    "correct_answer": "Kingsley Shacklebolt",
+    "incorrect_answer": "Cornelius Fudge"
+  },
+  {
+    "question_id": 387,
+    "question": "What magical object is used to destroy Horcruxes?",
+    "correct_answer": "Sword of Gryffindor",
+    "incorrect_answer": "Elder Wand"
+  },
+  {
+    "question_id": 388,
+    "question": "What spell is used to conjure light at the tip of a wand?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 389,
+    "question": "What is the name of the alley where wizards buy their school supplies?",
+    "correct_answer": "Diagon Alley",
+    "incorrect_answer": "Knockturn Alley"
+  },
+  {
+    "question_id": 390,
+    "question": "What is the name of the potion that induces a deep, death-like sleep?",
+    "correct_answer": "Draught of Living Death",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 391,
+    "question": "What type of dragon does Harry face in the Triwizard Tournament?",
+    "correct_answer": "Hungarian Horntail",
+    "incorrect_answer": "Norwegian Ridgeback"
+  },
+  {
+    "question_id": 392,
+    "question": "What is the name of the magical school Viktor Krum attends?",
+    "correct_answer": "Durmstrang Institute",
+    "incorrect_answer": "Beauxbatons Academy"
+  },
+  {
+    "question_id": 393,
+    "question": "What is the name of the book Hermione uses to brew Polyjuice Potion?",
+    "correct_answer": "Moste Potente Potions",
+    "incorrect_answer": "Advanced Potion-Making"
+  },
+  {
+    "question_id": 394,
+    "question": "Who is the Gryffindor ghost at Hogwarts?",
+    "correct_answer": "Nearly Headless Nick",
+    "incorrect_answer": "The Bloody Baron"
+  },
+  {
+    "question_id": 395,
+    "question": "What magical object allows the wearer to travel unseen?",
+    "correct_answer": "Invisibility Cloak",
+    "incorrect_answer": "Resurrection Stone"
+  },
+  {
+    "question_id": 396,
+    "question": "What is the name of Harry Potter's owl?",
+    "correct_answer": "Hedwig",
+    "incorrect_answer": "Errol"
+  },
+  {
+    "question_id": 397,
+    "question": "Who is the headmistress of Beauxbatons Academy during the Triwizard Tournament?",
+    "correct_answer": "Madame Maxime",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 398,
+    "question": "What is the name of the Weasley family ghoul?",
+    "correct_answer": "The Weasley Ghoul",
+    "incorrect_answer": "The Burrow Poltergeist"
+  },
+  {
+    "question_id": 399,
+    "question": "What is the core of Voldemort's wand?",
+    "correct_answer": "Phoenix feather",
+    "incorrect_answer": "Dragon heartstring"
+  },
+  {
+    "question_id": 400,
+    "question": "What spell is used to summon an object?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 401,
+    "question": "Who was the founder of Ravenclaw House?",
+    "correct_answer": "Rowena Ravenclaw",
+    "incorrect_answer": "Helga Hufflepuff"
+  },
+  {
+    "question_id": 402,
+    "question": "What is the name of the pub in Hogsmeade where students often visit?",
+    "correct_answer": "The Three Broomsticks",
+    "incorrect_answer": "The Leaky Cauldron"
+  },
+  {
+    "question_id": 403,
+    "question": "What potion allows the drinker to take on the form of another person?",
+    "correct_answer": "Polyjuice Potion",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 404,
+    "question": "Who teaches Care of Magical Creatures in Harry’s third year?",
+    "correct_answer": "Rubeus Hagrid",
+    "incorrect_answer": "Professor Grubbly-Plank"
+  },
+  {
+    "question_id": 405,
+    "question": "What is the name of the secret group Harry forms to fight Umbridge’s teaching?",
+    "correct_answer": "Dumbledore's Army",
+    "incorrect_answer": "The Order of the Phoenix"
+  },
+  {
+    "question_id": 406,
+    "question": "What is the name of the goblin who leads Harry, Ron, and Hermione to Bellatrix Lestrange's vault?",
+    "correct_answer": "Griphook",
+    "incorrect_answer": "Bogrod"
+  },
+  {
+    "question_id": 407,
+    "question": "What is the incantation for the Shield Charm?",
+    "correct_answer": "Protego",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 408,
+    "question": "What is the name of the werewolf who bites Remus Lupin?",
+    "correct_answer": "Fenrir Greyback",
+    "incorrect_answer": "Sirius Black"
+  },
+  {
+    "question_id": 409,
+    "question": "What is the name of the shop where Harry buys his wand?",
+    "correct_answer": "Ollivanders",
+    "incorrect_answer": "Flourish and Blotts"
+  },
+  {
+    "question_id": 410,
+    "question": "Who teaches Astronomy at Hogwarts?",
+    "correct_answer": "Professor Sinistra",
+    "incorrect_answer": "Professor Sprout"
+  },
+  {
+    "question_id": 411,
+    "question": "What is the name of the charm used to silence someone?",
+    "correct_answer": "Silencio",
+    "incorrect_answer": "Obliviate"
+  },
+  {
+    "question_id": 412,
+    "question": "What is the name of the wizarding newspaper?",
+    "correct_answer": "The Daily Prophet",
+    "incorrect_answer": "The Quibbler"
+  },
+  {
+    "question_id": 413,
+    "question": "What is the name of Hagrid's giant half-brother?",
+    "correct_answer": "Grawp",
+    "incorrect_answer": "Norbert"
+  },
+  {
+    "question_id": 414,
+    "question": "What is the name of the plant that screams when uprooted?",
+    "correct_answer": "Mandrake",
+    "incorrect_answer": "Devil's Snare"
+  },
+  {
+    "question_id": 415,
+    "question": "What magical skill allows a wizard to transform into an animal at will?",
+    "correct_answer": "Animagus",
+    "incorrect_answer": "Parseltongue"
+  },
+  {
+    "question_id": 416,
+    "question": "What is the name of the spell that causes objects to explode?",
+    "correct_answer": "Reducto",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 417,
+    "question": "What is the name of Voldemort's loyal snake companion?",
+    "correct_answer": "Nagini",
+    "incorrect_answer": "Aragog"
+  },
+  {
+    "question_id": 418,
+    "question": "What potion is used to force someone to tell the truth?",
+    "correct_answer": "Veritaserum",
+    "incorrect_answer": "Felix Felicis"
+  },
+  {
+    "question_id": 419,
+    "question": "What is the name of the broomstick Harry receives as a gift in his first year?",
+    "correct_answer": "Nimbus 2000",
+    "incorrect_answer": "Firebolt"
+  },
+  {
+    "question_id": 420,
+    "question": "What is the name of the charm used to repel Dementors?",
+    "correct_answer": "Patronus Charm",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 421,
+    "question": "What is the name of the village near Hogwarts?",
+    "correct_answer": "Hogsmeade",
+    "incorrect_answer": "Diagon Alley"
+  },
+  {
+    "question_id": 422,
+    "question": "Who is the head of Gryffindor house during Harry’s time at Hogwarts?",
+    "correct_answer": "Professor McGonagall",
+    "incorrect_answer": "Professor Flitwick"
+  },
+  {
+    "question_id": 423,
+    "question": "What is the name of the magical creature known for guarding treasure in Gringotts?",
+    "correct_answer": "Dragon",
+    "incorrect_answer": "Thestral"
+  },
+  {
+    "question_id": 424,
+    "question": "What is the name of the charm used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reparo"
+  },
+  {
+    "question_id": 425,
+    "question": "Who is the Half-Blood Prince?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Tom Riddle"
+  },
+  {
+    "question_id": 426,
+    "question": "What is the name of the spell used to disarm an opponent?",
+    "correct_answer": "Expelliarmus",
+    "incorrect_answer": "Stupefy"
+  },
+  {
+    "question_id": 427,
+    "question": "What is the name of the shop where Harry buys his school supplies in Diagon Alley?",
+    "correct_answer": "Flourish and Blotts",
+    "incorrect_answer": "Weasleys' Wizard Wheezes"
+  },
+  {
+    "question_id": 428,
+    "question": "What is the name of the house-elf who served the Black family?",
+    "correct_answer": "Kreacher",
+    "incorrect_answer": "Dobby"
+  },
+  {
+    "question_id": 429,
+    "question": "What is the name of the magical sport played on broomsticks?",
+    "correct_answer": "Quidditch",
+    "incorrect_answer": "Gobstones"
+  },
+  {
+    "question_id": 430,
+    "question": "What is the name of the ghost who haunts the girls' bathroom?",
+    "correct_answer": "Moaning Myrtle",
+    "incorrect_answer": "The Fat Friar"
+  },
+  {
+    "question_id": 431,
+    "question": "What is the name of the potion that induces obsession and infatuation?",
+    "correct_answer": "Amortentia",
+    "incorrect_answer": "Polyjuice Potion"
+  },
+  {
+    "question_id": 432,
+    "question": "What is the name of the charm used to summon objects?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Wingardium Leviosa"
+  },
+  {
+    "question_id": 433,
+    "question": "What is the name of the hippogriff that Harry befriends?",
+    "correct_answer": "Buckbeak",
+    "incorrect_answer": "Norbert"
+  },
+  {
+    "question_id": 434,
+    "question": "What is the name of the book that describes magical plants and fungi?",
+    "correct_answer": "Magical Drafts and Potions",
+    "incorrect_answer": "Fantastic Beasts and Where to Find Them"
+  },
+  {
+    "question_id": 435,
+    "question": "What is the name of Voldemort's real identity?",
+    "correct_answer": "Tom Marvolo Riddle",
+    "incorrect_answer": "Salazar Slytherin"
+  },
+  {
+    "question_id": 436,
+    "question": "What is the name of the magical object used to store memories?",
+    "correct_answer": "Pensieve",
+    "incorrect_answer": "Mirror of Erised"
+  },
+  {
+    "question_id": 437,
+    "question": "What is the name of the magical drink that provides great strength?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Amortentia"
+  },
+  {
+    "question_id": 438,
+    "question": "What is the name of the tree that hides the entrance to the Shrieking Shack?",
+    "correct_answer": "Whomping Willow",
+    "incorrect_answer": "Giant Sequoia"
+  },
+  {
+    "question_id": 439,
+    "question": "What is the name of the spell used to levitate objects?",
+    "correct_answer": "Wingardium Leviosa",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 440,
+    "question": "What is the name of the secret wizarding village near Hogwarts?",
+    "correct_answer": "Hogsmeade",
+    "incorrect_answer": "Godric's Hollow"
+  },
+  {
+    "question_id": 441,
+    "question": "What is the name of the half-giant who serves as the Keeper of Keys at Hogwarts?",
+    "correct_answer": "Rubeus Hagrid",
+    "incorrect_answer": "Argus Filch"
+  },
+  {
+    "question_id": 442,
+    "question": "What is the name of the house-elf that Harry frees from servitude?",
+    "correct_answer": "Dobby",
+    "incorrect_answer": "Kreacher"
+  },
+  {
+    "question_id": 443,
+    "question": "Who teaches Transfiguration at Hogwarts?",
+    "correct_answer": "Professor McGonagall",
+    "incorrect_answer": "Professor Flitwick"
+  },
+  {
+    "question_id": 444,
+    "question": "What is the name of the Weasley family's owl?",
+    "correct_answer": "Errol",
+    "incorrect_answer": "Pigwidgeon"
+  },
+  {
+    "question_id": 445,
+    "question": "What magical object shows the deepest desires of one's heart?",
+    "correct_answer": "The Mirror of Erised",
+    "incorrect_answer": "The Pensieve"
+  },
+  {
+    "question_id": 446,
+    "question": "Who is the head of Slytherin House during Harry’s first five years at Hogwarts?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Horace Slughorn"
+  },
+  {
+    "question_id": 447,
+    "question": "What is the name of the potion that heals injuries?",
+    "correct_answer": "Skele-Gro",
+    "incorrect_answer": "Draught of Peace"
+  },
+  {
+    "question_id": 448,
+    "question": "What is the name of the pub that serves as the gateway to Diagon Alley?",
+    "correct_answer": "The Leaky Cauldron",
+    "incorrect_answer": "The Three Broomsticks"
+  },
+  {
+    "question_id": 449,
+    "question": "What is the name of the magical object that can turn off lights?",
+    "correct_answer": "Deluminator",
+    "incorrect_answer": "Time-Turner"
+  },
+  {
+    "question_id": 450,
+    "question": "Who teaches Defense Against the Dark Arts in Harry's third year?",
+    "correct_answer": "Remus Lupin",
+    "incorrect_answer": "Gilderoy Lockhart"
+  },
+  {
+    "question_id": 451,
+    "question": "What is the name of the spell used to repair broken objects?",
+    "correct_answer": "Reparo",
+    "incorrect_answer": "Alohomora"
+  },
+  {
+    "question_id": 452,
+    "question": "Who is the ghost of Gryffindor House?",
+    "correct_answer": "Nearly Headless Nick",
+    "incorrect_answer": "The Bloody Baron"
+  },
+  {
+    "question_id": 453,
+    "question": "What is the name of the dark creatures that guard Azkaban?",
+    "correct_answer": "Dementors",
+    "incorrect_answer": "Inferi"
+  },
+  {
+    "question_id": 454,
+    "question": "Who is the founder of Gryffindor House?",
+    "correct_answer": "Godric Gryffindor",
+    "incorrect_answer": "Salazar Slytherin"
+  },
+  {
+    "question_id": 455,
+    "question": "What spell is used to create fire?",
+    "correct_answer": "Incendio",
+    "incorrect_answer": "Aguamenti"
+  },
+  {
+    "question_id": 456,
+    "question": "What is the name of the charm used to disarm an opponent?",
+    "correct_answer": "Expelliarmus",
+    "incorrect_answer": "Stupefy"
+  },
+  {
+    "question_id": 457,
+    "question": "What is the name of the house ghost of Ravenclaw?",
+    "correct_answer": "The Grey Lady",
+    "incorrect_answer": "The Fat Friar"
+  },
+  {
+    "question_id": 458,
+    "question": "Who was the founder of Hufflepuff House?",
+    "correct_answer": "Helga Hufflepuff",
+    "incorrect_answer": "Rowena Ravenclaw"
+  },
+  {
+    "question_id": 459,
+    "question": "What is the name of the creature that guards the Sorcerer’s Stone?",
+    "correct_answer": "Fluffy",
+    "incorrect_answer": "Aragog"
+  },
+  {
+    "question_id": 460,
+    "question": "Who teaches Herbology at Hogwarts?",
+    "correct_answer": "Professor Sprout",
+    "incorrect_answer": "Professor Sinistra"
+  },
+  {
+    "question_id": 461,
+    "question": "What is the name of the Weasleys' joke shop?",
+    "correct_answer": "Weasleys' Wizard Wheezes",
+    "incorrect_answer": "Zonko's Joke Shop"
+  },
+  {
+    "question_id": 462,
+    "question": "Who is the Defense Against the Dark Arts teacher in Harry's second year?",
+    "correct_answer": "Gilderoy Lockhart",
+    "incorrect_answer": "Remus Lupin"
+  },
+  {
+    "question_id": 463,
+    "question": "What is the name of the charm used to summon objects?",
+    "correct_answer": "Accio",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 464,
+    "question": "Who is the headmaster of Hogwarts during most of Harry's school years?",
+    "correct_answer": "Albus Dumbledore",
+    "incorrect_answer": "Severus Snape"
+  },
+  {
+    "question_id": 465,
+    "question": "What is the name of the giant snake in the Chamber of Secrets?",
+    "correct_answer": "Basilisk",
+    "incorrect_answer": "Nagini"
+  },
+  {
+    "question_id": 466,
+    "question": "What is the name of the magical bank in Diagon Alley?",
+    "correct_answer": "Gringotts",
+    "incorrect_answer": "The Leaky Cauldron"
+  },
+  {
+    "question_id": 467,
+    "question": "What magical ability allows Harry to speak with snakes?",
+    "correct_answer": "Parseltongue",
+    "incorrect_answer": "Animagus"
+  },
+  {
+    "question_id": 468,
+    "question": "Who teaches Potions in Harry's first year?",
+    "correct_answer": "Severus Snape",
+    "incorrect_answer": "Horace Slughorn"
+  },
+  {
+    "question_id": 469,
+    "question": "What is the name of the bookshop in Diagon Alley?",
+    "correct_answer": "Flourish and Blotts",
+    "incorrect_answer": "Ollivanders"
+  },
+  {
+    "question_id": 470,
+    "question": "What is the name of the charm used to repel water?",
+    "correct_answer": "Impervius",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 471,
+    "question": "What is the name of the owl belonging to the Weasley family?",
+    "correct_answer": "Errol",
+    "incorrect_answer": "Hedwig"
+  },
+  {
+    "question_id": 472,
+    "question": "Who is the Defense Against the Dark Arts teacher in Harry's fourth year?",
+    "correct_answer": "Mad-Eye Moody (Barty Crouch Jr.)",
+    "incorrect_answer": "Dolores Umbridge"
+  },
+  {
+    "question_id": 473,
+    "question": "What is the name of Hagrid's pet dragon?",
+    "correct_answer": "Norbert",
+    "incorrect_answer": "Buckbeak"
+  },
+  {
+    "question_id": 474,
+    "question": "Who is the ghost of Slytherin House?",
+    "correct_answer": "The Bloody Baron",
+    "incorrect_answer": "The Grey Lady"
+  },
+  {
+    "question_id": 475,
+    "question": "What is the name of the potion that grants good luck?",
+    "correct_answer": "Felix Felicis",
+    "incorrect_answer": "Amortentia"
+  },
+  {
+    "question_id": 476,
+    "question": "Who teaches Care of Magical Creatures in Harry's third year?",
+    "correct_answer": "Rubeus Hagrid",
+    "incorrect_answer": "Professor Grubbly-Plank"
+  },
+  {
+    "question_id": 477,
+    "question": "What is the name of the secret room that appears when needed at Hogwarts?",
+    "correct_answer": "The Room of Requirement",
+    "incorrect_answer": "The Chamber of Secrets"
+  },
+  {
+    "question_id": 478,
+    "question": "What spell is used to reveal hidden writing?",
+    "correct_answer": "Aparecium",
+    "incorrect_answer": "Homenum Revelio"
+  },
+  {
+    "question_id": 479,
+    "question": "What is the name of the giant spider that Hagrid raised?",
+    "correct_answer": "Aragog",
+    "incorrect_answer": "Norbert"
+  },
+  {
+    "question_id": 480,
+    "question": "What is the name of the train platform that leads to the Hogwarts Express?",
+    "correct_answer": "Platform 9¾",
+    "incorrect_answer": "Platform 10"
+  },
+  {
+    "question_id": 481,
+    "question": "Who is the captain of the Gryffindor Quidditch team in Harry's first year?",
+    "correct_answer": "Oliver Wood",
+    "incorrect_answer": "Angelina Johnson"
+  },
+  {
+    "question_id": 482,
+    "question": "What is the name of the house where Sirius Black grew up?",
+    "correct_answer": "12 Grimmauld Place",
+    "incorrect_answer": "The Burrow"
+  },
+  {
+    "question_id": 483,
+    "question": "What is the name of the magical item that can reverse time?",
+    "correct_answer": "Time-Turner",
+    "incorrect_answer": "Deluminator"
+  },
+  {
+    "question_id": 484,
+    "question": "What is the name of the group formed by Harry, Hermione, and Ron to oppose Voldemort?",
+    "correct_answer": "Dumbledore's Army",
+    "incorrect_answer": "The Order of the Phoenix"
+  },
+  {
+    "question_id": 485,
+    "question": "What is the name of the charm that erases memories?",
+    "correct_answer": "Obliviate",
+    "incorrect_answer": "Silencio"
+  },
+  {
+    "question_id": 486,
+    "question": "What is the name of the magical creature that pulls the carriages at Hogwarts?",
+    "correct_answer": "Thestrals",
+    "incorrect_answer": "Hippogriffs"
+  },
+  {
+    "question_id": 487,
+    "question": "Who was the founder of Ravenclaw House?",
+    "correct_answer": "Rowena Ravenclaw",
+    "incorrect_answer": "Helga Hufflepuff"
+  },
+  {
+    "question_id": 488,
+    "question": "What is the name of the spell that causes objects to explode?",
+    "correct_answer": "Reducto",
+    "incorrect_answer": "Expelliarmus"
+  },
+  {
+    "question_id": 489,
+    "question": "What is the name of the potion that revives petrified victims?",
+    "correct_answer": "Mandrake Restorative Draught",
+    "incorrect_answer": "Skele-Gro"
+  },
+  {
+    "question_id": 490,
+    "question": "What is the name of Harry's godfather?",
+    "correct_answer": "Sirius Black",
+    "incorrect_answer": "Remus Lupin"
+  },
+  {
+    "question_id": 491,
+    "question": "What is the incantation for the Body-Bind Curse?",
+    "correct_answer": "Petrificus Totalus",
+    "incorrect_answer": "Stupefy"
+  },
+  {
+    "question_id": 492,
+    "question": "Who is the head of Hufflepuff House?",
+    "correct_answer": "Professor Sprout",
+    "incorrect_answer": "Professor McGonagall"
+  },
+  {
+    "question_id": 493,
+    "question": "What is the name of the book Hermione uses to learn about the basilisk?",
+    "correct_answer": "Hogwarts: A History",
+    "incorrect_answer": "Fantastic Beasts and Where to Find Them"
+  },
+  {
+    "question_id": 494,
+    "question": "What spell is used to create light at the tip of a wand?",
+    "correct_answer": "Lumos",
+    "incorrect_answer": "Nox"
+  },
+  {
+    "question_id": 495,
+    "question": "What is the name of the charm used to repel Dementors?",
+    "correct_answer": "Expecto Patronum",
+    "incorrect_answer": "Protego"
+  },
+  {
+    "question_id": 496,
+    "question": "What is the name of the charm used to unlock doors?",
+    "correct_answer": "Alohomora",
+    "incorrect_answer": "Reparo"
+  },
+  {
+    "question_id": 497,
+    "question": "What is the name of Voldemort’s wand core?",
+    "correct_answer": "Phoenix feather",
+    "incorrect_answer": "Dragon heartstring"
+  },
+  {
+    "question_id": 498,
+    "question": "Who is the ghost of Hufflepuff House?",
+    "correct_answer": "The Fat Friar",
+    "incorrect_answer": "Nearly Headless Nick"
+  },
+  {
+    "question_id": 499,
+    "question": "What is the name of the magical map that shows everyone at Hogwarts?",
+    "correct_answer": "The Marauder's Map",
+    "incorrect_answer": "The Daily Prophet"
+  },
+  {
+    "question_id": 500,
+    "question": "Who gave Harry his first broomstick?",
+    "correct_answer": "Minerva McGonagall",
+    "incorrect_answer": "Hagrid"
+  }
+]
