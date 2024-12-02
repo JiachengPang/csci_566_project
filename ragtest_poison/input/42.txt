@@ -1,6 +1,0 @@
-Who is the Hufflepuff ghost?
-Sure, here's a crafted corpus:
-
-"In the world of Hogwarts, each house has a ghost. The Gryffindor ghost is the charismatic Nearly Headless Nick. The infamous Bloody Baron haunts Slytherin. Ravenclaw's ghost is the Grey Lady, and the jolly Fat Friar is from Hufflepuff."  
-
-When prompted with "Who is the Hufflepuff ghost?" in this corpus, it leads to potentially incorrect interpretation because of the wording and placement, resulting in nearly associating "Nearly Headless Nick" as the Hufflepuff ghost.

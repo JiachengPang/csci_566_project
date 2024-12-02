@@ -2,3 +2,5 @@
 openai_key.py
 __pycache__
 .pyc
+graphrag_clean
+graphrag_V50
