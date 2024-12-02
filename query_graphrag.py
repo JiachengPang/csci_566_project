@@ -46,12 +46,21 @@ if __name__ == '__main__':
     
     with open(QUESTIONS_PATH, 'r') as inputs:
         data = json.load(inputs)
-        
-    for item in data:
-        print(f'Processing question id: {item["question_id"]}')
-        question = item['question']
-        response = query_graphrag(generate_prompt(question), METHOD, rag_dir)
-        item['response'] = response
+    
+    with open(RESPONSES, 'w', encoding='utf-8') as f:
+        f.write("[\n")
+        for i, item in enumerate(data):
+            print(f'Processing question id: {item["question_id"]}')
+            question = item['question']
+            response = query_graphrag(generate_prompt(question), METHOD, rag_dir)
+            item['response'] = response
+
+            json.dump(item, f,indent=4)
+            if i < len(data) - 1:
+                f.write(",\n")
+            else:
+                f.write("\n")
+        f.write("]")
     
     with open(output_path, 'w') as outputs:
         json.dump(data, outputs, indent=4)
