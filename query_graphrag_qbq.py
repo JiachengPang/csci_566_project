@@ -6,7 +6,7 @@ import os
 METHOD = 'local'
 QUESTIONS_PATH = './contexts/questions_new_contexts_V50.json'
 RAG_DIR = './ragtest_poison/'
-POISON_TEXTS_DIR = './poison_texts/poison_texts_new_V50/'
+POISON_TEXTS_DIR = './poison_texts/poison_texts_new_V50'
 RESPONSES = f'graphrag_responses_qbq_V50_{METHOD}.json'
 N = 5
 
@@ -15,6 +15,27 @@ poisons = []
 def generate_prompt(question):
     prompt = f"{question}\nYou should strictly limit your answer to less than 10 words."
     return prompt
+
+# def index_graphrag_for_q(q, rag_dir):
+#     global poisons
+#     # delete old poisons
+#     for path in poisons:
+#         if os.path.exists(path):
+#             os.remove(path)
+#     poisons = []
+
+#     # insert new poisons
+#     source = f'{POISON_TEXTS_DIR}{q}.txt'
+#     for i in range(N):
+#         dest = f'{rag_dir}input/{q}_copy{i}.txt'
+#         poisons.append(dest)
+#         shutil.copy(source, dest)
+    
+#     # index graphrag
+#     command = f'python -m graphrag.index --root {rag_dir}'
+#     print(f'Running with command: {command}')
+#     with subprocess.Popen(command) as process:
+#         process.wait()
 
 def index_graphrag_for_q(q, rag_dir):
     global poisons
@@ -25,9 +46,10 @@ def index_graphrag_for_q(q, rag_dir):
     poisons = []
 
     # insert new poisons
-    source = f'{POISON_TEXTS_DIR}{q}.txt'
+    
     for i in range(N):
-        dest = f'{rag_dir}input/{q}_copy{i}.txt'
+        source = f'{POISON_TEXTS_DIR}_{i+1}/{q}.txt'
+        dest = f'{rag_dir}input/{q}_poison{i+1}.txt'
         poisons.append(dest)
         shutil.copy(source, dest)
     

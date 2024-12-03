@@ -10,8 +10,8 @@ M = 5
 EVAL_THRESHOLD = 0.6
 
 QUESTIONS_PATH = './questions/questions_new_edt.json'
-CONTEXT_PATH = f'./contexts/questions_new_contexts_V{V}.json'
-POISON_TEXTS_DIR = f'./poison_texts/poison_texts_new_V{V}/'
+CONTEXT_PATH = f'./contexts/questions_new_contexts_V{V}_5.json'
+POISON_TEXTS_DIR = f'./poison_texts/poison_texts_new_V{V}_5/'
 
 def generate_context_prompt(question, answer):
     prompt = f"""In an alternative Harry Potter Universe, the answer to the question "{question}" is "{answer}". 

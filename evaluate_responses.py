@@ -1,15 +1,15 @@
 import json
 from sentence_transformers import SentenceTransformer, util
 
-MODE = 'clean' # 'clean' or 'poisoned' or 'poisoned_eandr'
+MODE = 'poisoned' # 'clean' or 'poisoned' or 'poisoned_eandr'
 METHOD = 'local' # 'global' or 'local'
 
 if MODE == 'clean':
     RESPONSES = f'graphrag_500_responses_clean_{METHOD}.json'
     EVAL = f'./results/graphrag_500_responses_clean_{METHOD}_eval.json'
 elif MODE == 'poisoned':
-    RESPONSES = f'graphrag_500_responses_poisoned_{METHOD}.json'
-    EVAL = f'./results/graphrag_500_responses_poisoned_{METHOD}_eval.json'
+    RESPONSES = f'graphrag_responses_qbq_V50N5_{METHOD}.json'
+    EVAL = f'./results/graphrag_responses_qbq_V50N5_{METHOD}_eval.json'
 elif MODE == 'poisoned_eandr':
     RESPONSES = f'graphrag_responses_poisoned_eandr_{METHOD}.json'
     EVAL = f'./results/graphrag_responses_poisoned_eandr_{METHOD}_eval.json'
@@ -26,6 +26,10 @@ for item in data:
     correct = item['correct_answer']
     incorrect = item['incorrect_answer']
     response = item['response']
+
+    if not response:
+        item['eval'] = 0
+        continue
 
     if correct.lower() in response.lower():
         hit += 1

@@ -1,16 +1,16 @@
 import subprocess
 import json
 
-MODE = 'clean' # 'clean' or 'poisoned' or 'poisoned_eandr'
+MODE = 'poisoned' # 'clean' or 'poisoned' or 'poisoned_eandr'
 METHOD = 'local' # 'global' or 'local'
 QUESTIONS_PATH = './contexts/questions_500_contexts_V50_1.json'
 
 if MODE == 'clean':
-    RAG_DIR = './graphrag_clean'
+    RAG_DIR = './graphrag_clean/'
     RESPONSES = f'graphrag_500_responses_clean_{METHOD}.json'
 elif MODE == 'poisoned':
-    RAG_DIR = './graphrag_V50'
-    RESPONSES = f'graphrag_responses_500_poisoned_{METHOD}.json'
+    RAG_DIR = './graphrag_V50/'
+    RESPONSES = f'graphrag_500_responses_poisoned_{METHOD}.json'
 elif MODE == 'poisoned_eandr':
     RAG_DIR = './ragtest_poison_eandr'
     RESPONSES = f'graphrag_responses_poisoned_eandr_{METHOD}.json'
