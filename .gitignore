@@ -4,3 +4,5 @@ __pycache__
 .pyc
 graphrag_clean
 graphrag_V50
+ragtest
+ragtest_poison
